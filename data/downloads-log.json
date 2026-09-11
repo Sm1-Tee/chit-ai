@@ -1423,7 +1423,7 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-11T21:49:45.200Z",
+	"updatedAt": "2026-09-11T23:50:55.674Z",
 	"total": 244,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
@@ -1648,6 +1648,12 @@
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
 			"total": 1
+		},
+		{
+			"tag": "Prestij",
+			"release": "Престиж",
+			"publishedAt": "2026-09-11T22:26:58Z",
+			"total": 0
 		},
 		{
 			"tag": "Tsvet_volshebstva",
