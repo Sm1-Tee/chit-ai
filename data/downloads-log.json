@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-12T11:56:28.759Z",
+			"release": "Артас. Восхождение Короля-лича",
+			"tag": "Artas_Voskhozhdenie_Korolya-licha",
+			"asset": "Artas_Voskhozhdenie_Korolya-licha-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 2
+		},
+		{
 			"at": "2026-09-12T07:41:11.294Z",
 			"release": "Престиж",
 			"tag": "Prestij",
@@ -1432,8 +1441,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-12T07:41:11.294Z",
-	"total": 245,
+	"updatedAt": "2026-09-12T11:56:28.759Z",
+	"total": 246,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1638,7 +1647,7 @@
 			"tag": "Artas_Voskhozhdenie_Korolya-licha",
 			"release": "Артас. Восхождение Короля-лича",
 			"publishedAt": "2026-05-10T13:37:59Z",
-			"total": 2
+			"total": 3
 		},
 		{
 			"tag": "Prestij",
