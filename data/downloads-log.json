@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-12T07:41:11.294Z",
+			"release": "Престиж",
+			"tag": "Prestij",
+			"asset": "Prestij-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 1
+		},
+		{
 			"at": "2026-09-09T19:02:08.192Z",
 			"release": "Ukrytie",
 			"tag": "Ukrytie",
@@ -1423,8 +1432,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-12T02:55:59.297Z",
-	"total": 244,
+	"updatedAt": "2026-09-12T07:41:11.294Z",
+	"total": 245,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1632,6 +1641,12 @@
 			"total": 2
 		},
 		{
+			"tag": "Prestij",
+			"release": "Престиж",
+			"publishedAt": "2026-09-11T22:26:58Z",
+			"total": 1
+		},
+		{
 			"tag": "Тени_сгущаются",
 			"release": "Тени сгущаются",
 			"publishedAt": "2026-09-06T14:54:11Z",
@@ -1648,12 +1663,6 @@
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
 			"total": 1
-		},
-		{
-			"tag": "Prestij",
-			"release": "Престиж",
-			"publishedAt": "2026-09-11T22:26:58Z",
-			"total": 0
 		},
 		{
 			"tag": "Tsvet_volshebstva",
