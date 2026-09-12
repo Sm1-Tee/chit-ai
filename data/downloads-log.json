@@ -1,6 +1,60 @@
 {
 	"events": [
 		{
+			"at": "2026-09-12T15:03:33.897Z",
+			"release": "1984",
+			"tag": "1984_2",
+			"asset": "1984-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 10
+		},
+		{
+			"at": "2026-09-12T15:03:33.897Z",
+			"release": "Остров проклятых",
+			"tag": "Остров_проклятых",
+			"asset": "Ostrov-proklyatyh-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 6
+		},
+		{
+			"at": "2026-09-12T15:03:33.897Z",
+			"release": "Пикник на обочине",
+			"tag": "Piknik_na_obochine",
+			"asset": "Piknik_na_obochine-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-09-12T15:03:33.897Z",
+			"release": "Мастер и Маргарита",
+			"tag": "Master_i_Margarita",
+			"asset": "Master_i_Margarita-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-09-12T15:03:33.897Z",
+			"release": "Дюна",
+			"tag": "Dyuna",
+			"asset": "Dyuna-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 3
+		},
+		{
+			"at": "2026-09-12T15:03:33.897Z",
+			"release": "Черный человек ",
+			"tag": "Chernyy_chelovek",
+			"asset": "Chernyy_chelovek-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-09-12T11:56:28.759Z",
 			"release": "Артас. Восхождение Короля-лича",
 			"tag": "Artas_Voskhozhdenie_Korolya-licha",
@@ -1441,8 +1495,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-12T11:56:28.759Z",
-	"total": 246,
+	"updatedAt": "2026-09-12T15:03:33.897Z",
+	"total": 252,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1485,7 +1539,7 @@
 			"tag": "1984_2",
 			"release": "1984",
 			"publishedAt": "2026-08-08T18:06:59Z",
-			"total": 9
+			"total": 10
 		},
 		{
 			"tag": "Книга",
@@ -1524,6 +1578,12 @@
 			"total": 8
 		},
 		{
+			"tag": "Остров_проклятых",
+			"release": "Остров проклятых",
+			"publishedAt": "2026-07-27T18:05:59Z",
+			"total": 7
+		},
+		{
 			"tag": "Prezhde_chem_ih_povesyat",
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
@@ -1534,12 +1594,6 @@
 			"release": "Настоящие сказки братьев Гримм.",
 			"publishedAt": "2026-05-10T14:54:17Z",
 			"total": 7
-		},
-		{
-			"tag": "Остров_проклятых",
-			"release": "Остров проклятых",
-			"publishedAt": "2026-07-27T18:05:59Z",
-			"total": 6
 		},
 		{
 			"tag": "1984",
@@ -1554,15 +1608,21 @@
 			"total": 6
 		},
 		{
+			"tag": "Master_i_Margarita",
+			"release": "Мастер и Маргарита",
+			"publishedAt": "2026-05-10T14:49:21Z",
+			"total": 6
+		},
+		{
 			"tag": "Побег_из_Шоушенка",
 			"release": "Побег из Шоушенка",
 			"publishedAt": "2026-07-25T16:49:08Z",
 			"total": 5
 		},
 		{
-			"tag": "Master_i_Margarita",
-			"release": "Мастер и Маргарита",
-			"publishedAt": "2026-05-10T14:49:21Z",
+			"tag": "Piknik_na_obochine",
+			"release": "Пикник на обочине",
+			"publishedAt": "2026-05-10T14:46:02Z",
 			"total": 5
 		},
 		{
@@ -1590,15 +1650,21 @@
 			"total": 4
 		},
 		{
-			"tag": "Piknik_na_obochine",
-			"release": "Пикник на обочине",
-			"publishedAt": "2026-05-10T14:46:02Z",
-			"total": 4
-		},
-		{
 			"tag": "Esli_vse_koshki_v_mire_ischeznut",
 			"release": "Esli_vse_koshki_v_mire_ischeznut",
 			"publishedAt": "2026-05-10T14:44:06Z",
+			"total": 4
+		},
+		{
+			"tag": "Dyuna",
+			"release": "Дюна",
+			"publishedAt": "2026-05-10T14:47:01Z",
+			"total": 4
+		},
+		{
+			"tag": "Chernyy_chelovek",
+			"release": "Черный человек ",
+			"publishedAt": "2026-05-10T14:47:55Z",
 			"total": 4
 		},
 		{
@@ -1629,18 +1695,6 @@
 			"tag": "Krov_i_zhelezo",
 			"release": "Кровь и железо",
 			"publishedAt": "2026-05-10T13:33:54Z",
-			"total": 3
-		},
-		{
-			"tag": "Dyuna",
-			"release": "Дюна",
-			"publishedAt": "2026-05-10T14:47:01Z",
-			"total": 3
-		},
-		{
-			"tag": "Chernyy_chelovek",
-			"release": "Черный человек ",
-			"publishedAt": "2026-05-10T14:47:55Z",
 			"total": 3
 		},
 		{
