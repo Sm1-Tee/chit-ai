@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-12T17:46:45.009Z",
+			"release": "Ukrytie",
+			"tag": "Ukrytie",
+			"asset": "Ukrytie-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 18
+		},
+		{
 			"at": "2026-09-12T15:03:33.897Z",
 			"release": "1984",
 			"tag": "1984_2",
@@ -1495,15 +1504,15 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-12T15:03:33.897Z",
-	"total": 252,
+	"updatedAt": "2026-09-12T17:46:45.009Z",
+	"total": 253,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
 			"tag": "Ukrytie",
 			"release": "Ukrytie",
 			"publishedAt": "2026-05-10T14:56:12Z",
-			"total": 24
+			"total": 25
 		},
 		{
 			"tag": "imya-vetra",
