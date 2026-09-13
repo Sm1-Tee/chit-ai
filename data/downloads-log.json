@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-13T17:53:32.307Z",
+			"release": "Пламя и кровь. Кровь драконов",
+			"tag": "Пламя-и-кровь-Кровь-драконов",
+			"asset": "Plamya-i-krov-Krov-drakonov-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-09-12T17:46:45.009Z",
 			"release": "Ukrytie",
 			"tag": "Ukrytie",
@@ -1504,8 +1513,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-13T14:34:05.349Z",
-	"total": 253,
+	"updatedAt": "2026-09-13T17:53:32.307Z",
+	"total": 254,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1623,6 +1632,12 @@
 			"total": 6
 		},
 		{
+			"tag": "Пламя-и-кровь-Кровь-драконов",
+			"release": "Пламя и кровь. Кровь драконов",
+			"publishedAt": "2026-08-17T22:02:34Z",
+			"total": 5
+		},
+		{
 			"tag": "Побег_из_Шоушенка",
 			"release": "Побег из Шоушенка",
 			"publishedAt": "2026-07-25T16:49:08Z",
@@ -1645,12 +1660,6 @@
 			"release": "Amerikanskie_bogi",
 			"publishedAt": "2026-05-10T14:42:59Z",
 			"total": 5
-		},
-		{
-			"tag": "Пламя-и-кровь-Кровь-драконов",
-			"release": "Пламя и кровь. Кровь драконов",
-			"publishedAt": "2026-08-17T22:02:34Z",
-			"total": 4
 		},
 		{
 			"tag": "Дракула",
