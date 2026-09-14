@@ -1,6 +1,42 @@
 {
 	"events": [
 		{
+			"at": "2026-09-14T17:34:24.389Z",
+			"release": "Остров проклятых",
+			"tag": "Остров_проклятых",
+			"asset": "Ostrov-proklyatyh-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 7
+		},
+		{
+			"at": "2026-09-14T17:34:24.389Z",
+			"release": "Побег из Шоушенка",
+			"tag": "Побег_из_Шоушенка",
+			"asset": "Pobeg_iz_Shoushenka_BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
+			"at": "2026-09-14T17:34:24.389Z",
+			"release": "Побег из Шоушенка",
+			"tag": "Побег_из_Шоушенка",
+			"asset": "Pobeg_iz_Shoushenka_COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-09-14T17:34:24.389Z",
+			"release": "Ukrytie",
+			"tag": "Ukrytie",
+			"asset": "Ukrytie-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 20
+		},
+		{
 			"at": "2026-09-13T20:14:10.284Z",
 			"release": "Ukrytie",
 			"tag": "Ukrytie",
@@ -1522,15 +1558,15 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-14T11:39:55.395Z",
-	"total": 255,
+	"updatedAt": "2026-09-14T17:34:24.389Z",
+	"total": 259,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
 			"tag": "Ukrytie",
 			"release": "Ukrytie",
 			"publishedAt": "2026-05-10T14:56:12Z",
-			"total": 26
+			"total": 27
 		},
 		{
 			"tag": "imya-vetra",
@@ -1575,6 +1611,12 @@
 			"total": 8
 		},
 		{
+			"tag": "Остров_проклятых",
+			"release": "Остров проклятых",
+			"publishedAt": "2026-07-27T18:05:59Z",
+			"total": 8
+		},
+		{
 			"tag": "Трудно_быть_богом",
 			"release": "Трудно быть богом",
 			"publishedAt": "2026-07-14T14:20:43Z",
@@ -1605,9 +1647,9 @@
 			"total": 8
 		},
 		{
-			"tag": "Остров_проклятых",
-			"release": "Остров проклятых",
-			"publishedAt": "2026-07-27T18:05:59Z",
+			"tag": "Побег_из_Шоушенка",
+			"release": "Побег из Шоушенка",
+			"publishedAt": "2026-07-25T16:49:08Z",
 			"total": 7
 		},
 		{
@@ -1644,12 +1686,6 @@
 			"tag": "Пламя-и-кровь-Кровь-драконов",
 			"release": "Пламя и кровь. Кровь драконов",
 			"publishedAt": "2026-08-17T22:02:34Z",
-			"total": 5
-		},
-		{
-			"tag": "Побег_из_Шоушенка",
-			"release": "Побег из Шоушенка",
-			"publishedAt": "2026-07-25T16:49:08Z",
 			"total": 5
 		},
 		{
