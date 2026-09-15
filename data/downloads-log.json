@@ -1,6 +1,33 @@
 {
 	"events": [
 		{
+			"at": "2026-09-15T18:21:26.977Z",
+			"release": "1984",
+			"tag": "1984_2",
+			"asset": "1984-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 11
+		},
+		{
+			"at": "2026-09-15T18:21:26.977Z",
+			"release": "Побег из Шоушенка",
+			"tag": "Побег_из_Шоушенка",
+			"asset": "Pobeg_iz_Shoushenka_BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-09-15T18:21:26.977Z",
+			"release": "Побег из Шоушенка",
+			"tag": "Побег_из_Шоушенка",
+			"asset": "Pobeg_iz_Shoushenka_COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-09-14T17:34:24.389Z",
 			"release": "Остров проклятых",
 			"tag": "Остров_проклятых",
@@ -1558,8 +1585,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-15T14:10:46.041Z",
-	"total": 259,
+	"updatedAt": "2026-09-15T18:21:26.977Z",
+	"total": 262,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1593,16 +1620,22 @@
 			"total": 13
 		},
 		{
+			"tag": "1984_2",
+			"release": "1984",
+			"publishedAt": "2026-08-08T18:06:59Z",
+			"total": 11
+		},
+		{
 			"tag": "dve-kreposti",
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
 			"total": 11
 		},
 		{
-			"tag": "1984_2",
-			"release": "1984",
-			"publishedAt": "2026-08-08T18:06:59Z",
-			"total": 10
+			"tag": "Побег_из_Шоушенка",
+			"release": "Побег из Шоушенка",
+			"publishedAt": "2026-07-25T16:49:08Z",
+			"total": 9
 		},
 		{
 			"tag": "Книга",
@@ -1645,12 +1678,6 @@
 			"release": "Хоббит, или Туда и обратно",
 			"publishedAt": "2026-05-10T13:31:42Z",
 			"total": 8
-		},
-		{
-			"tag": "Побег_из_Шоушенка",
-			"release": "Побег из Шоушенка",
-			"publishedAt": "2026-07-25T16:49:08Z",
-			"total": 7
 		},
 		{
 			"tag": "Prezhde_chem_ih_povesyat",
@@ -1789,6 +1816,12 @@
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
 			"total": 1
+		},
+		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 0
 		},
 		{
 			"tag": "Tsvet_volshebstva",
