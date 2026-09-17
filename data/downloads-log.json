@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-09-17T19:09:27.274Z",
+			"release": "Престиж",
+			"tag": "Prestij",
+			"asset": "Prestij-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
+			"at": "2026-09-17T19:09:27.274Z",
+			"release": "Пламя и кровь. Кровь драконов",
+			"tag": "Пламя-и-кровь-Кровь-драконов",
+			"asset": "Plamya-i-krov-Krov-drakonov-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
 			"at": "2026-09-17T10:14:18.703Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -1612,8 +1630,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-17T15:09:04.107Z",
-	"total": 265,
+	"updatedAt": "2026-09-17T19:09:27.274Z",
+	"total": 267,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1719,6 +1737,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Пламя-и-кровь-Кровь-драконов",
+			"release": "Пламя и кровь. Кровь драконов",
+			"publishedAt": "2026-08-17T22:02:34Z",
+			"total": 6
+		},
+		{
 			"tag": "1984",
 			"release": "1984",
 			"publishedAt": "2026-05-10T14:50:17Z",
@@ -1735,12 +1759,6 @@
 			"release": "Мастер и Маргарита",
 			"publishedAt": "2026-05-10T14:49:21Z",
 			"total": 6
-		},
-		{
-			"tag": "Пламя-и-кровь-Кровь-драконов",
-			"release": "Пламя и кровь. Кровь драконов",
-			"publishedAt": "2026-08-17T22:02:34Z",
-			"total": 5
 		},
 		{
 			"tag": "Piknik_na_obochine",
@@ -1830,7 +1848,7 @@
 			"tag": "Prestij",
 			"release": "Престиж",
 			"publishedAt": "2026-09-11T22:26:58Z",
-			"total": 1
+			"total": 2
 		},
 		{
 			"tag": "Тени_сгущаются",
