@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-17T10:14:18.703Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 2
+		},
+		{
 			"at": "2026-09-16T08:45:40.037Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -1603,8 +1612,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-17T05:05:52.558Z",
-	"total": 264,
+	"updatedAt": "2026-09-17T10:14:18.703Z",
+	"total": 265,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -1776,6 +1785,12 @@
 			"total": 4
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 3
+		},
+		{
 			"tag": "черный_отряд",
 			"release": "Черный отряд",
 			"publishedAt": "2026-07-23T13:21:12Z",
@@ -1810,12 +1825,6 @@
 			"release": "Артас. Восхождение Короля-лича",
 			"publishedAt": "2026-05-10T13:37:59Z",
 			"total": 3
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 2
 		},
 		{
 			"tag": "Prestij",
