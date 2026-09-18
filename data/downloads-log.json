@@ -1,6 +1,60 @@
 {
 	"events": [
 		{
+			"at": "2026-09-18T10:28:59.631Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 3
+		},
+		{
+			"at": "2026-09-18T10:28:59.631Z",
+			"release": "Черный отряд",
+			"tag": "черный_отряд",
+			"asset": "Chernyi_otriad_COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 2
+		},
+		{
+			"at": "2026-09-18T10:28:59.631Z",
+			"release": "Ukrytie",
+			"tag": "Ukrytie",
+			"asset": "Ukrytie-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 8
+		},
+		{
+			"at": "2026-09-18T10:28:59.631Z",
+			"release": "Прежде чем их повесят",
+			"tag": "Prezhde_chem_ih_povesyat",
+			"asset": "Prezhde_chem_ih_povesyat-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 7
+		},
+		{
+			"at": "2026-09-18T10:28:59.631Z",
+			"release": "Последний довод королей",
+			"tag": "Posledniy_dovod_koroley",
+			"asset": "Posledniy_dovod_koroley-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 2
+		},
+		{
+			"at": "2026-09-18T10:28:59.631Z",
+			"release": "Кровь и железо",
+			"tag": "Krov_i_zhelezo",
+			"asset": "Krov_i_zhelezo-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-09-17T19:09:27.274Z",
 			"release": "Престиж",
 			"tag": "Prestij",
@@ -1630,15 +1684,15 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-18T05:30:34.591Z",
-	"total": 267,
+	"updatedAt": "2026-09-18T10:28:59.631Z",
+	"total": 273,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
 			"tag": "Ukrytie",
 			"release": "Ukrytie",
 			"publishedAt": "2026-05-10T14:56:12Z",
-			"total": 27
+			"total": 28
 		},
 		{
 			"tag": "imya-vetra",
@@ -1719,16 +1773,16 @@
 			"total": 8
 		},
 		{
+			"tag": "Prezhde_chem_ih_povesyat",
+			"release": "Прежде чем их повесят",
+			"publishedAt": "2026-05-10T13:35:14Z",
+			"total": 8
+		},
+		{
 			"tag": "Khobbit_ili_Tuda_i_obratno",
 			"release": "Хоббит, или Туда и обратно",
 			"publishedAt": "2026-05-10T13:31:42Z",
 			"total": 8
-		},
-		{
-			"tag": "Prezhde_chem_ih_povesyat",
-			"release": "Прежде чем их повесят",
-			"publishedAt": "2026-05-10T13:35:14Z",
-			"total": 7
 		},
 		{
 			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
@@ -1779,9 +1833,33 @@
 			"total": 5
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 4
+		},
+		{
+			"tag": "черный_отряд",
+			"release": "Черный отряд",
+			"publishedAt": "2026-07-23T13:21:12Z",
+			"total": 4
+		},
+		{
 			"tag": "Дракула",
 			"release": "ДРАКУЛА",
 			"publishedAt": "2026-07-02T16:22:13Z",
+			"total": 4
+		},
+		{
+			"tag": "Posledniy_dovod_koroley",
+			"release": "Последний довод королей",
+			"publishedAt": "2026-05-10T13:36:38Z",
+			"total": 4
+		},
+		{
+			"tag": "Krov_i_zhelezo",
+			"release": "Кровь и железо",
+			"publishedAt": "2026-05-10T13:33:54Z",
 			"total": 4
 		},
 		{
@@ -1803,39 +1881,15 @@
 			"total": 4
 		},
 		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 3
-		},
-		{
-			"tag": "черный_отряд",
-			"release": "Черный отряд",
-			"publishedAt": "2026-07-23T13:21:12Z",
-			"total": 3
-		},
-		{
 			"tag": "Rytsar_Semi_Korolevstv",
 			"release": "Рыцарь Семи Королевств",
 			"publishedAt": "2026-05-10T13:41:44Z",
 			"total": 3
 		},
 		{
-			"tag": "Posledniy_dovod_koroley",
-			"release": "Последний довод королей",
-			"publishedAt": "2026-05-10T13:36:38Z",
-			"total": 3
-		},
-		{
 			"tag": "Mor_uchenik_Smerti",
 			"release": "Мор, ученик Смерти",
 			"publishedAt": "2026-05-10T14:45:04Z",
-			"total": 3
-		},
-		{
-			"tag": "Krov_i_zhelezo",
-			"release": "Кровь и железо",
-			"publishedAt": "2026-05-10T13:33:54Z",
 			"total": 3
 		},
 		{
