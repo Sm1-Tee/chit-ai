@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-09-21T20:45:43.563Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-09-21T20:45:43.563Z",
+			"release": "Артас. Восхождение Короля-лича",
+			"tag": "Artas_Voskhozhdenie_Korolya-licha",
+			"asset": "Artas_Voskhozhdenie_Korolya-licha-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-09-21T05:14:58.014Z",
 			"release": "Ukrytie",
 			"tag": "Ukrytie",
@@ -2044,8 +2062,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-21T16:48:22.225Z",
-	"total": 319,
+	"updatedAt": "2026-09-21T20:45:43.563Z",
+	"total": 321,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2205,6 +2223,12 @@
 			"total": 6
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 5
+		},
+		{
 			"tag": "Дракула",
 			"release": "ДРАКУЛА",
 			"publishedAt": "2026-07-02T16:22:13Z",
@@ -2229,12 +2253,6 @@
 			"total": 5
 		},
 		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 4
-		},
-		{
 			"tag": "Rytsar_Semi_Korolevstv",
 			"release": "Рыцарь Семи Королевств",
 			"publishedAt": "2026-05-10T13:41:44Z",
@@ -2253,6 +2271,12 @@
 			"total": 4
 		},
 		{
+			"tag": "Artas_Voskhozhdenie_Korolya-licha",
+			"release": "Артас. Восхождение Короля-лича",
+			"publishedAt": "2026-05-10T13:37:59Z",
+			"total": 4
+		},
+		{
 			"tag": "Prestij",
 			"release": "Престиж",
 			"publishedAt": "2026-09-11T22:26:58Z",
@@ -2262,12 +2286,6 @@
 			"tag": "Тени_сгущаются",
 			"release": "Тени сгущаются",
 			"publishedAt": "2026-09-06T14:54:11Z",
-			"total": 3
-		},
-		{
-			"tag": "Artas_Voskhozhdenie_Korolya-licha",
-			"release": "Артас. Восхождение Короля-лича",
-			"publishedAt": "2026-05-10T13:37:59Z",
 			"total": 3
 		},
 		{
