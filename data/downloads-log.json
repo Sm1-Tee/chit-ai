@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-21T05:14:58.014Z",
+			"release": "Ukrytie",
+			"tag": "Ukrytie",
+			"asset": "Ukrytie-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 22
+		},
+		{
 			"at": "2026-09-19T06:16:13.475Z",
 			"release": "Черный отряд",
 			"tag": "черный_отряд",
@@ -2035,15 +2044,15 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-21T00:23:05.216Z",
-	"total": 318,
+	"updatedAt": "2026-09-21T05:14:58.014Z",
+	"total": 319,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
 			"tag": "Ukrytie",
 			"release": "Ukrytie",
 			"publishedAt": "2026-05-10T14:56:12Z",
-			"total": 29
+			"total": 30
 		},
 		{
 			"tag": "imya-vetra",
