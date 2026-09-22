@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-22T20:49:39.938Z",
+			"release": "Мастер и Маргарита",
+			"tag": "Master_i_Margarita",
+			"asset": "Master_i_Margarita-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 8
+		},
+		{
 			"at": "2026-09-21T20:45:43.563Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -2062,8 +2071,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-22T17:54:30.492Z",
-	"total": 321,
+	"updatedAt": "2026-09-22T20:49:39.938Z",
+	"total": 322,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2121,6 +2130,12 @@
 			"total": 10
 		},
 		{
+			"tag": "Master_i_Margarita",
+			"release": "Мастер и Маргарита",
+			"publishedAt": "2026-05-10T14:49:21Z",
+			"total": 10
+		},
+		{
 			"tag": "Книга",
 			"release": "Проект «Аве Мария»",
 			"publishedAt": "2026-08-04T20:51:56Z",
@@ -2160,12 +2175,6 @@
 			"tag": "Prezhde_chem_ih_povesyat",
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
-			"total": 9
-		},
-		{
-			"tag": "Master_i_Margarita",
-			"release": "Мастер и Маргарита",
-			"publishedAt": "2026-05-10T14:49:21Z",
 			"total": 9
 		},
 		{
