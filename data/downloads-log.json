@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-24T18:07:46.936Z",
+			"release": "1984",
+			"tag": "1984_2",
+			"asset": "1984-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 13
+		},
+		{
 			"at": "2026-09-22T20:49:39.938Z",
 			"release": "Мастер и Маргарита",
 			"tag": "Master_i_Margarita",
@@ -2071,8 +2080,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-24T13:40:59.573Z",
-	"total": 322,
+	"updatedAt": "2026-09-24T18:07:46.936Z",
+	"total": 323,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2109,7 +2118,7 @@
 			"tag": "1984_2",
 			"release": "1984",
 			"publishedAt": "2026-08-08T18:06:59Z",
-			"total": 12
+			"total": 13
 		},
 		{
 			"tag": "dve-kreposti",
