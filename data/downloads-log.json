@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-09-26T21:53:52.046Z",
+			"release": "Ukrytie",
+			"tag": "Ukrytie",
+			"asset": "Ukrytie-bw.epub",
+			"variant": "bw",
+			"delta": 2,
+			"total": 10
+		},
+		{
+			"at": "2026-09-26T21:53:52.046Z",
+			"release": "Ukrytie",
+			"tag": "Ukrytie",
+			"asset": "Ukrytie-color.epub",
+			"variant": "color",
+			"delta": 2,
+			"total": 24
+		},
+		{
 			"at": "2026-09-26T15:40:33.081Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -2107,15 +2125,15 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-26T18:57:33.837Z",
-	"total": 326,
+	"updatedAt": "2026-09-26T21:53:52.046Z",
+	"total": 330,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
 			"tag": "Ukrytie",
 			"release": "Ukrytie",
 			"publishedAt": "2026-05-10T14:56:12Z",
-			"total": 30
+			"total": 34
 		},
 		{
 			"tag": "imya-vetra",
