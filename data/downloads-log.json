@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-09-26T11:38:58.819Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-09-24T18:07:46.936Z",
 			"release": "1984",
 			"tag": "1984_2",
@@ -2080,8 +2089,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-26T06:21:48.414Z",
-	"total": 323,
+	"updatedAt": "2026-09-26T11:38:58.819Z",
+	"total": 324,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2211,6 +2220,12 @@
 			"total": 7
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 6
+		},
+		{
 			"tag": "1984",
 			"release": "1984",
 			"publishedAt": "2026-05-10T14:50:17Z",
@@ -2239,12 +2254,6 @@
 			"release": "Amerikanskie_bogi",
 			"publishedAt": "2026-05-10T14:42:59Z",
 			"total": 6
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 5
 		},
 		{
 			"tag": "Дракула",
