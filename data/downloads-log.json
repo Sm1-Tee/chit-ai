@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-09-29T14:12:37.830Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 2
+		},
+		{
+			"at": "2026-09-29T14:12:37.830Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 7
+		},
+		{
 			"at": "2026-09-27T19:29:39.722Z",
 			"release": "1984",
 			"tag": "1984_2",
@@ -2152,8 +2170,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-09-29T07:16:14.180Z",
-	"total": 333,
+	"updatedAt": "2026-09-29T14:12:37.830Z",
+	"total": 335,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2223,6 +2241,12 @@
 			"total": 10
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 9
+		},
+		{
 			"tag": "Книга",
 			"release": "Проект «Аве Мария»",
 			"publishedAt": "2026-08-04T20:51:56Z",
@@ -2269,12 +2293,6 @@
 			"release": "Настоящие сказки братьев Гримм.",
 			"publishedAt": "2026-05-10T14:54:17Z",
 			"total": 8
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 7
 		},
 		{
 			"tag": "Пламя-и-кровь-Кровь-драконов",
