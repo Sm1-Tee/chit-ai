@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-02T23:55:44.434Z",
+			"release": "Молчание ягнят",
+			"tag": "Molchanie_yagnyat",
+			"asset": "Molchanie-yagnyat-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 2
+		},
+		{
 			"at": "2026-10-01T23:19:26.490Z",
 			"release": "Молчание ягнят",
 			"tag": "Molchanie_yagnyat",
@@ -2188,8 +2197,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-02T20:03:45.152Z",
-	"total": 337,
+	"updatedAt": "2026-10-02T23:55:44.434Z",
+	"total": 338,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2415,16 +2424,16 @@
 			"total": 3
 		},
 		{
+			"tag": "Molchanie_yagnyat",
+			"release": "Молчание ягнят",
+			"publishedAt": "2026-10-01T20:17:08Z",
+			"total": 2
+		},
+		{
 			"tag": "Frankenshteyn_ili_Sovremennyy_Prometey",
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
 			"total": 2
-		},
-		{
-			"tag": "Molchanie_yagnyat",
-			"release": "Молчание ягнят",
-			"publishedAt": "2026-10-01T20:17:08Z",
-			"total": 1
 		},
 		{
 			"tag": "Tsvet_volshebstva",
