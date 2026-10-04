@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-04T06:09:33.547Z",
+			"release": "Прежде чем их повесят",
+			"tag": "Prezhde_chem_ih_povesyat",
+			"asset": "Prezhde_chem_ih_povesyat-color.epub",
+			"variant": "color",
+			"delta": 2,
+			"total": 10
+		},
+		{
 			"at": "2026-10-02T23:55:44.434Z",
 			"release": "Молчание ягнят",
 			"tag": "Molchanie_yagnyat",
@@ -2197,8 +2206,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-04T00:23:24.185Z",
-	"total": 338,
+	"updatedAt": "2026-10-04T06:09:33.547Z",
+	"total": 340,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2242,6 +2251,12 @@
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
 			"total": 12
+		},
+		{
+			"tag": "Prezhde_chem_ih_povesyat",
+			"release": "Прежде чем их повесят",
+			"publishedAt": "2026-05-10T13:35:14Z",
+			"total": 11
 		},
 		{
 			"tag": "Побег_из_Шоушенка",
@@ -2301,12 +2316,6 @@
 			"tag": "Strakhi_mudretsa_Tom_1",
 			"release": "Страхи мудреца. Том 1",
 			"publishedAt": "2026-05-10T13:40:37Z",
-			"total": 9
-		},
-		{
-			"tag": "Prezhde_chem_ih_povesyat",
-			"release": "Прежде чем их повесят",
-			"publishedAt": "2026-05-10T13:35:14Z",
 			"total": 9
 		},
 		{
