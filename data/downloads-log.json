@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-04T23:25:54.012Z",
+			"release": "Amerikanskie_bogi",
+			"tag": "Amerikanskie_bogi",
+			"asset": "Amerikanskie_bogi-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-10-04T06:09:33.547Z",
 			"release": "Прежде чем их повесят",
 			"tag": "Prezhde_chem_ih_povesyat",
@@ -2206,8 +2215,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-04T20:19:11.895Z",
-	"total": 340,
+	"updatedAt": "2026-10-04T23:25:54.012Z",
+	"total": 341,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2343,6 +2352,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Amerikanskie_bogi",
+			"release": "Amerikanskie_bogi",
+			"publishedAt": "2026-05-10T14:42:59Z",
+			"total": 7
+		},
+		{
 			"tag": "1984",
 			"release": "1984",
 			"publishedAt": "2026-05-10T14:50:17Z",
@@ -2364,12 +2379,6 @@
 			"tag": "Chernyy_chelovek",
 			"release": "Черный человек ",
 			"publishedAt": "2026-05-10T14:47:55Z",
-			"total": 6
-		},
-		{
-			"tag": "Amerikanskie_bogi",
-			"release": "Amerikanskie_bogi",
-			"publishedAt": "2026-05-10T14:42:59Z",
 			"total": 6
 		},
 		{
