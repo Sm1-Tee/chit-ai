@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-10-05T18:42:32.572Z",
+			"release": "Молчание ягнят",
+			"tag": "Molchanie_yagnyat",
+			"asset": "Molchanie-yagnyat-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 3
+		},
+		{
+			"at": "2026-10-05T18:42:32.572Z",
+			"release": "Братство кольца",
+			"tag": "bratstvo_kolca",
+			"asset": "bratstvo_kolca_color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 12
+		},
+		{
 			"at": "2026-10-04T23:25:54.012Z",
 			"release": "Amerikanskie_bogi",
 			"tag": "Amerikanskie_bogi",
@@ -2215,8 +2233,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-05T09:24:58.777Z",
-	"total": 341,
+	"updatedAt": "2026-10-05T18:42:32.572Z",
+	"total": 343,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2226,16 +2244,16 @@
 			"total": 34
 		},
 		{
+			"tag": "bratstvo_kolca",
+			"release": "Братство кольца",
+			"publishedAt": "2026-06-06T19:17:42Z",
+			"total": 17
+		},
+		{
 			"tag": "imya-vetra",
 			"release": "imya-vetra",
 			"publishedAt": "2026-05-10T12:58:58Z",
 			"total": 17
-		},
-		{
-			"tag": "bratstvo_kolca",
-			"release": "Братство кольца",
-			"publishedAt": "2026-06-06T19:17:42Z",
-			"total": 16
 		},
 		{
 			"tag": "1984_2",
@@ -2436,16 +2454,16 @@
 			"total": 4
 		},
 		{
+			"tag": "Molchanie_yagnyat",
+			"release": "Молчание ягнят",
+			"publishedAt": "2026-10-01T20:17:08Z",
+			"total": 3
+		},
+		{
 			"tag": "Тени_сгущаются",
 			"release": "Тени сгущаются",
 			"publishedAt": "2026-09-06T14:54:11Z",
 			"total": 3
-		},
-		{
-			"tag": "Molchanie_yagnyat",
-			"release": "Молчание ягнят",
-			"publishedAt": "2026-10-01T20:17:08Z",
-			"total": 2
 		},
 		{
 			"tag": "Frankenshteyn_ili_Sovremennyy_Prometey",
