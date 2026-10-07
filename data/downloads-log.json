@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-10-07T22:37:00.732Z",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"asset": "Esli_vse_koshki_v_mire_ischeznut-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 2
+		},
+		{
+			"at": "2026-10-07T22:37:00.732Z",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"asset": "Esli_vse_koshki_v_mire_ischeznut-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-10-07T17:53:37.509Z",
 			"release": "Ученик убийцы ",
 			"tag": "Uchenik_ubiytsy",
@@ -2251,8 +2269,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-07T17:53:37.509Z",
-	"total": 345,
+	"updatedAt": "2026-10-07T22:37:00.732Z",
+	"total": 347,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2412,6 +2430,12 @@
 			"total": 6
 		},
 		{
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"publishedAt": "2026-05-10T14:44:06Z",
+			"total": 6
+		},
+		{
 			"tag": "Chernyy_chelovek",
 			"release": "Черный человек ",
 			"publishedAt": "2026-05-10T14:47:55Z",
@@ -2457,12 +2481,6 @@
 			"tag": "Mor_uchenik_Smerti",
 			"release": "Мор, ученик Смерти",
 			"publishedAt": "2026-05-10T14:45:04Z",
-			"total": 4
-		},
-		{
-			"tag": "Esli_vse_koshki_v_mire_ischeznut",
-			"release": "Esli_vse_koshki_v_mire_ischeznut",
-			"publishedAt": "2026-05-10T14:44:06Z",
 			"total": 4
 		},
 		{
