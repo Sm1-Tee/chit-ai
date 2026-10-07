@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-07T17:53:37.509Z",
+			"release": "Ученик убийцы ",
+			"tag": "Uchenik_ubiytsy",
+			"asset": "Uchenik_ubiytsy-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-10-06T19:40:04.041Z",
 			"release": "1984",
 			"tag": "1984_2",
@@ -2242,8 +2251,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-07T11:14:01.690Z",
-	"total": 344,
+	"updatedAt": "2026-10-07T17:53:37.509Z",
+	"total": 345,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2361,6 +2370,12 @@
 			"total": 9
 		},
 		{
+			"tag": "Uchenik_ubiytsy",
+			"release": "Ученик убийцы ",
+			"publishedAt": "2026-05-10T14:57:15Z",
+			"total": 8
+		},
+		{
 			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
 			"release": "Настоящие сказки братьев Гримм.",
 			"publishedAt": "2026-05-10T14:54:17Z",
@@ -2370,12 +2385,6 @@
 			"tag": "Пламя-и-кровь-Кровь-драконов",
 			"release": "Пламя и кровь. Кровь драконов",
 			"publishedAt": "2026-08-17T22:02:34Z",
-			"total": 7
-		},
-		{
-			"tag": "Uchenik_ubiytsy",
-			"release": "Ученик убийцы ",
-			"publishedAt": "2026-05-10T14:57:15Z",
 			"total": 7
 		},
 		{
