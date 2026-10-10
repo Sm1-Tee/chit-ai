@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-10-10T17:37:12.350Z",
+			"release": "Тени сгущаются",
+			"tag": "Тени_сгущаются",
+			"asset": "Teni-sgushchayutsya-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-10-10T17:37:12.350Z",
+			"release": "Черный отряд",
+			"tag": "черный_отряд",
+			"asset": "Chernyi_otriad_COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 9
+		},
+		{
 			"at": "2026-10-07T22:37:00.732Z",
 			"release": "Esli_vse_koshki_v_mire_ischeznut",
 			"tag": "Esli_vse_koshki_v_mire_ischeznut",
@@ -2269,8 +2287,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-10T12:50:50.208Z",
-	"total": 347,
+	"updatedAt": "2026-10-10T17:37:12.350Z",
+	"total": 349,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2316,6 +2334,12 @@
 			"total": 12
 		},
 		{
+			"tag": "черный_отряд",
+			"release": "Черный отряд",
+			"publishedAt": "2026-07-23T13:21:12Z",
+			"total": 11
+		},
+		{
 			"tag": "Prezhde_chem_ih_povesyat",
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
@@ -2325,12 +2349,6 @@
 			"tag": "Побег_из_Шоушенка",
 			"release": "Побег из Шоушенка",
 			"publishedAt": "2026-07-25T16:49:08Z",
-			"total": 10
-		},
-		{
-			"tag": "черный_отряд",
-			"release": "Черный отряд",
-			"publishedAt": "2026-07-23T13:21:12Z",
 			"total": 10
 		},
 		{
@@ -2472,6 +2490,12 @@
 			"total": 4
 		},
 		{
+			"tag": "Тени_сгущаются",
+			"release": "Тени сгущаются",
+			"publishedAt": "2026-09-06T14:54:11Z",
+			"total": 4
+		},
+		{
 			"tag": "Rytsar_Semi_Korolevstv",
 			"release": "Рыцарь Семи Королевств",
 			"publishedAt": "2026-05-10T13:41:44Z",
@@ -2493,12 +2517,6 @@
 			"tag": "Molchanie_yagnyat",
 			"release": "Молчание ягнят",
 			"publishedAt": "2026-10-01T20:17:08Z",
-			"total": 3
-		},
-		{
-			"tag": "Тени_сгущаются",
-			"release": "Тени сгущаются",
-			"publishedAt": "2026-09-06T14:54:11Z",
 			"total": 3
 		},
 		{
