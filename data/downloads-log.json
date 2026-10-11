@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-11T13:14:59.446Z",
+			"release": "Молчание ягнят",
+			"tag": "Molchanie_yagnyat",
+			"asset": "Molchanie-yagnyat-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-10-10T17:37:12.350Z",
 			"release": "Тени сгущаются",
 			"tag": "Тени_сгущаются",
@@ -2287,8 +2296,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-11T06:08:15.861Z",
-	"total": 349,
+	"updatedAt": "2026-10-11T13:14:59.446Z",
+	"total": 350,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2484,6 +2493,12 @@
 			"total": 5
 		},
 		{
+			"tag": "Molchanie_yagnyat",
+			"release": "Молчание ягнят",
+			"publishedAt": "2026-10-01T20:17:08Z",
+			"total": 4
+		},
+		{
 			"tag": "Prestij",
 			"release": "Престиж",
 			"publishedAt": "2026-09-11T22:26:58Z",
@@ -2512,12 +2527,6 @@
 			"release": "Артас. Восхождение Короля-лича",
 			"publishedAt": "2026-05-10T13:37:59Z",
 			"total": 4
-		},
-		{
-			"tag": "Molchanie_yagnyat",
-			"release": "Молчание ягнят",
-			"publishedAt": "2026-10-01T20:17:08Z",
-			"total": 3
 		},
 		{
 			"tag": "Frankenshteyn_ili_Sovremennyy_Prometey",
