@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-15T16:13:43.070Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 8
+		},
+		{
 			"at": "2026-10-14T05:13:18.296Z",
 			"release": "Последний страж",
 			"tag": "Последний_страж",
@@ -2305,8 +2314,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-15T11:52:58.135Z",
-	"total": 351,
+	"updatedAt": "2026-10-15T16:13:43.070Z",
+	"total": 352,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2364,6 +2373,12 @@
 			"total": 11
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 10
+		},
+		{
 			"tag": "Побег_из_Шоушенка",
 			"release": "Побег из Шоушенка",
 			"publishedAt": "2026-07-25T16:49:08Z",
@@ -2386,12 +2401,6 @@
 			"release": "Мастер и Маргарита",
 			"publishedAt": "2026-05-10T14:49:21Z",
 			"total": 10
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 9
 		},
 		{
 			"tag": "Книга",
