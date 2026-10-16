@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-16T22:10:29.672Z",
+			"release": "Братство кольца",
+			"tag": "bratstvo_kolca",
+			"asset": "bratstvo_kolca_color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 13
+		},
+		{
 			"at": "2026-10-15T16:13:43.070Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -2314,8 +2323,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-16T19:30:20.702Z",
-	"total": 352,
+	"updatedAt": "2026-10-16T22:10:29.672Z",
+	"total": 353,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2328,7 +2337,7 @@
 			"tag": "bratstvo_kolca",
 			"release": "Братство кольца",
 			"publishedAt": "2026-06-06T19:17:42Z",
-			"total": 17
+			"total": 18
 		},
 		{
 			"tag": "imya-vetra",
