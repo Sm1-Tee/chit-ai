@@ -1,6 +1,51 @@
 {
 	"events": [
 		{
+			"at": "2026-10-18T06:18:27.062Z",
+			"release": "Проект «Аве Мария»",
+			"tag": "Книга",
+			"asset": "Proekt-Ave-Mariya-COLOR.epub",
+			"variant": "color",
+			"delta": 2,
+			"total": 11
+		},
+		{
+			"at": "2026-10-18T06:18:27.062Z",
+			"release": "Вечера на хуторе близ Диканьки",
+			"tag": "Вечера_на_хуторе_близ_Диканьки",
+			"asset": "Vechera.na.khutore.bliz.Dikanki-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 9
+		},
+		{
+			"at": "2026-10-18T06:18:27.062Z",
+			"release": "Пикник на обочине",
+			"tag": "Piknik_na_obochine",
+			"asset": "Piknik_na_obochine-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 6
+		},
+		{
+			"at": "2026-10-18T06:18:27.062Z",
+			"release": "Мастер и Маргарита",
+			"tag": "Master_i_Margarita",
+			"asset": "Master_i_Margarita-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
+			"at": "2026-10-18T06:18:27.062Z",
+			"release": "Мастер и Маргарита",
+			"tag": "Master_i_Margarita",
+			"asset": "Master_i_Margarita-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 9
+		},
+		{
 			"at": "2026-10-16T22:10:29.672Z",
 			"release": "Братство кольца",
 			"tag": "bratstvo_kolca",
@@ -2323,8 +2368,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-18T01:21:03.208Z",
-	"total": 353,
+	"updatedAt": "2026-10-18T06:18:27.062Z",
+	"total": 359,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2370,9 +2415,27 @@
 			"total": 12
 		},
 		{
+			"tag": "Master_i_Margarita",
+			"release": "Мастер и Маргарита",
+			"publishedAt": "2026-05-10T14:49:21Z",
+			"total": 12
+		},
+		{
+			"tag": "Книга",
+			"release": "Проект «Аве Мария»",
+			"publishedAt": "2026-08-04T20:51:56Z",
+			"total": 11
+		},
+		{
 			"tag": "черный_отряд",
 			"release": "Черный отряд",
 			"publishedAt": "2026-07-23T13:21:12Z",
+			"total": 11
+		},
+		{
+			"tag": "Вечера_на_хуторе_близ_Диканьки",
+			"release": "Вечера на хуторе близ Диканьки",
+			"publishedAt": "2026-07-05T18:38:06Z",
 			"total": 11
 		},
 		{
@@ -2398,24 +2461,6 @@
 			"release": "Трудно быть богом",
 			"publishedAt": "2026-07-14T14:20:43Z",
 			"total": 10
-		},
-		{
-			"tag": "Вечера_на_хуторе_близ_Диканьки",
-			"release": "Вечера на хуторе близ Диканьки",
-			"publishedAt": "2026-07-05T18:38:06Z",
-			"total": 10
-		},
-		{
-			"tag": "Master_i_Margarita",
-			"release": "Мастер и Маргарита",
-			"publishedAt": "2026-05-10T14:49:21Z",
-			"total": 10
-		},
-		{
-			"tag": "Книга",
-			"release": "Проект «Аве Мария»",
-			"publishedAt": "2026-08-04T20:51:56Z",
-			"total": 9
 		},
 		{
 			"tag": "Остров_проклятых",
@@ -2460,6 +2505,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Piknik_na_obochine",
+			"release": "Пикник на обочине",
+			"publishedAt": "2026-05-10T14:46:02Z",
+			"total": 7
+		},
+		{
 			"tag": "Amerikanskie_bogi",
 			"release": "Amerikanskie_bogi",
 			"publishedAt": "2026-05-10T14:42:59Z",
@@ -2469,12 +2520,6 @@
 			"tag": "1984",
 			"release": "1984",
 			"publishedAt": "2026-05-10T14:50:17Z",
-			"total": 6
-		},
-		{
-			"tag": "Piknik_na_obochine",
-			"release": "Пикник на обочине",
-			"publishedAt": "2026-05-10T14:46:02Z",
 			"total": 6
 		},
 		{
