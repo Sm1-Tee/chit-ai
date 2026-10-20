@@ -1,6 +1,42 @@
 {
 	"events": [
 		{
+			"at": "2026-10-20T12:50:35.177Z",
+			"release": "Проект «Аве Мария»",
+			"tag": "Книга",
+			"asset": "Proekt-Ave-Mariya-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
+			"at": "2026-10-20T12:50:35.177Z",
+			"release": "ДРАКУЛА",
+			"tag": "Дракула",
+			"asset": "Drakula-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
+			"at": "2026-10-20T12:50:35.177Z",
+			"release": "Портрет Дориана Грея",
+			"tag": "Portret_Doriana_Greya",
+			"asset": "Portret_Doriana_Greya-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 2
+		},
+		{
+			"at": "2026-10-20T12:50:35.177Z",
+			"release": "Настоящие сказки братьев Гримм.",
+			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
+			"asset": "Nastoyashchie_skazki_bratyev_Grimm-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-10-18T11:31:51.740Z",
 			"release": "Последний страж",
 			"tag": "Последний_страж",
@@ -2431,8 +2467,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-20T07:05:31.558Z",
-	"total": 369,
+	"updatedAt": "2026-10-20T12:50:35.177Z",
+	"total": 373,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2472,6 +2508,12 @@
 			"total": 14
 		},
 		{
+			"tag": "Книга",
+			"release": "Проект «Аве Мария»",
+			"publishedAt": "2026-08-04T20:51:56Z",
+			"total": 12
+		},
+		{
 			"tag": "dve-kreposti",
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
@@ -2493,12 +2535,6 @@
 			"tag": "warcraft",
 			"release": "Рождение Орды",
 			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 11
-		},
-		{
-			"tag": "Книга",
-			"release": "Проект «Аве Мария»",
-			"publishedAt": "2026-08-04T20:51:56Z",
 			"total": 11
 		},
 		{
@@ -2544,6 +2580,12 @@
 			"total": 9
 		},
 		{
+			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
+			"release": "Настоящие сказки братьев Гримм.",
+			"publishedAt": "2026-05-10T14:54:17Z",
+			"total": 9
+		},
+		{
 			"tag": "Khobbit_ili_Tuda_i_obratno",
 			"release": "Хоббит, или Туда и обратно",
 			"publishedAt": "2026-05-10T13:31:42Z",
@@ -2553,12 +2595,6 @@
 			"tag": "Uchenik_ubiytsy",
 			"release": "Ученик убийцы ",
 			"publishedAt": "2026-05-10T14:57:15Z",
-			"total": 8
-		},
-		{
-			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
-			"release": "Настоящие сказки братьев Гримм.",
-			"publishedAt": "2026-05-10T14:54:17Z",
 			"total": 8
 		},
 		{
@@ -2584,6 +2620,12 @@
 			"release": "Amerikanskie_bogi",
 			"publishedAt": "2026-05-10T14:42:59Z",
 			"total": 7
+		},
+		{
+			"tag": "Дракула",
+			"release": "ДРАКУЛА",
+			"publishedAt": "2026-07-02T16:22:13Z",
+			"total": 6
 		},
 		{
 			"tag": "1984",
@@ -2620,12 +2662,6 @@
 			"release": "Артас. Восхождение Короля-лича",
 			"publishedAt": "2026-05-10T13:37:59Z",
 			"total": 6
-		},
-		{
-			"tag": "Дракула",
-			"release": "ДРАКУЛА",
-			"publishedAt": "2026-07-02T16:22:13Z",
-			"total": 5
 		},
 		{
 			"tag": "Dyuna",
@@ -2670,6 +2706,12 @@
 			"total": 3
 		},
 		{
+			"tag": "Portret_Doriana_Greya",
+			"release": "Портрет Дориана Грея",
+			"publishedAt": "2026-05-10T14:39:46Z",
+			"total": 2
+		},
+		{
 			"tag": "Frankenshteyn_ili_Sovremennyy_Prometey",
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
@@ -2685,12 +2727,6 @@
 			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
 			"release": "Странная история доктора Джекила и мистера Хайда ",
 			"publishedAt": "2026-05-10T14:52:34Z",
-			"total": 1
-		},
-		{
-			"tag": "Portret_Doriana_Greya",
-			"release": "Портрет Дориана Грея",
-			"publishedAt": "2026-05-10T14:39:46Z",
 			"total": 1
 		}
 	]
