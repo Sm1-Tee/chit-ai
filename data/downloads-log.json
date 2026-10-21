@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-21T14:49:26.054Z",
+			"release": "Молчание ягнят",
+			"tag": "Molchanie_yagnyat",
+			"asset": "Molchanie-yagnyat-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-10-20T12:50:35.177Z",
 			"release": "Проект «Аве Мария»",
 			"tag": "Книга",
@@ -2467,8 +2476,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-21T09:30:52.923Z",
-	"total": 373,
+	"updatedAt": "2026-10-21T14:49:26.054Z",
+	"total": 374,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2664,16 +2673,16 @@
 			"total": 6
 		},
 		{
+			"tag": "Molchanie_yagnyat",
+			"release": "Молчание ягнят",
+			"publishedAt": "2026-10-01T20:17:08Z",
+			"total": 5
+		},
+		{
 			"tag": "Dyuna",
 			"release": "Дюна",
 			"publishedAt": "2026-05-10T14:47:01Z",
 			"total": 5
-		},
-		{
-			"tag": "Molchanie_yagnyat",
-			"release": "Молчание ягнят",
-			"publishedAt": "2026-10-01T20:17:08Z",
-			"total": 4
 		},
 		{
 			"tag": "Prestij",
