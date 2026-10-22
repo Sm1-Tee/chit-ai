@@ -2,8 +2,8 @@
 pubDate: 2024-01-25
 title: "Укрытие"
 author: "Хью Хауи"
-year: 2011
 genre: "Фантастика"
+year: 2011
 coverImage: "../../assets/books/ukrytie/cover.png"
 exampleImages:
   - "../../assets/books/ukrytie/example-1.jpeg"
@@ -12,6 +12,8 @@ exampleImages:
   - "../../assets/books/ukrytie/example-4.jpeg"
 colorEpub: "https://github.com/Sm1-Tee/chit-ai/releases/download/Ukrytie/Ukrytie-color.epub"
 bwEpub: "https://github.com/Sm1-Tee/chit-ai/releases/download/Ukrytie/Ukrytie-bw.epub"
+series: "Укрытие"
+seriesOrder: 1
 ---
 
 Последние люди погребены в стальном бункере, скрываясь от гибельного пепла уничтоженного мира. Здесь правит безжалостная диктатура лжи, а поиск правды карается изгнанием на верную смерть. Но ради выживания человечества придется бросить вызов системе и шагнуть на отравленную поверхность, обрушив вековую империю иллюзий.
