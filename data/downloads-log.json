@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-22T20:42:57.966Z",
+			"release": "Ученик убийцы ",
+			"tag": "Uchenik_ubiytsy",
+			"asset": "Uchenik_ubiytsy-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-10-21T14:49:26.054Z",
 			"release": "Молчание ягнят",
 			"tag": "Molchanie_yagnyat",
@@ -2476,8 +2485,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-22T17:27:17.462Z",
-	"total": 374,
+	"updatedAt": "2026-10-22T20:42:57.966Z",
+	"total": 375,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2583,6 +2592,12 @@
 			"total": 9
 		},
 		{
+			"tag": "Uchenik_ubiytsy",
+			"release": "Ученик убийцы ",
+			"publishedAt": "2026-05-10T14:57:15Z",
+			"total": 9
+		},
+		{
 			"tag": "Strakhi_mudretsa_Tom_1",
 			"release": "Страхи мудреца. Том 1",
 			"publishedAt": "2026-05-10T13:40:37Z",
@@ -2599,12 +2614,6 @@
 			"release": "Хоббит, или Туда и обратно",
 			"publishedAt": "2026-05-10T13:31:42Z",
 			"total": 9
-		},
-		{
-			"tag": "Uchenik_ubiytsy",
-			"release": "Ученик убийцы ",
-			"publishedAt": "2026-05-10T14:57:15Z",
-			"total": 8
 		},
 		{
 			"tag": "Пламя-и-кровь-Кровь-драконов",
@@ -2741,7 +2750,7 @@
 		{
 			"tag": "Uktytie-2",
 			"release": "Укрытие-Смена",
-			"publishedAt": null,
+			"publishedAt": "2026-10-22T19:20:14Z",
 			"total": 0
 		}
 	]
