@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-23T08:44:35.774Z",
+			"release": "Проект «Аве Мария»",
+			"tag": "Книга",
+			"asset": "Proekt-Ave-Mariya-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 12
+		},
+		{
 			"at": "2026-10-22T20:42:57.966Z",
 			"release": "Ученик убийцы ",
 			"tag": "Uchenik_ubiytsy",
@@ -2485,8 +2494,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-23T03:11:37.918Z",
-	"total": 375,
+	"updatedAt": "2026-10-23T08:44:35.774Z",
+	"total": 376,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2529,7 +2538,7 @@
 			"tag": "Книга",
 			"release": "Проект «Аве Мария»",
 			"publishedAt": "2026-08-04T20:51:56Z",
-			"total": 12
+			"total": 13
 		},
 		{
 			"tag": "dve-kreposti",
