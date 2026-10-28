@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-28T15:42:40.099Z",
+			"release": "Укрытие-Смена",
+			"tag": "Uktytie-2",
+			"asset": "ukrytie-2-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-10-28T08:54:56.211Z",
 			"release": "Братство кольца",
 			"tag": "bratstvo_kolca",
@@ -2557,8 +2566,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-28T08:54:56.211Z",
-	"total": 383,
+	"updatedAt": "2026-10-28T15:42:40.099Z",
+	"total": 384,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2754,6 +2763,12 @@
 			"total": 6
 		},
 		{
+			"tag": "Uktytie-2",
+			"release": "Укрытие-Смена",
+			"publishedAt": "2026-10-22T19:20:14Z",
+			"total": 5
+		},
+		{
 			"tag": "Molchanie_yagnyat",
 			"release": "Молчание ягнят",
 			"publishedAt": "2026-10-01T20:17:08Z",
@@ -2764,12 +2779,6 @@
 			"release": "Дюна",
 			"publishedAt": "2026-05-10T14:47:01Z",
 			"total": 5
-		},
-		{
-			"tag": "Uktytie-2",
-			"release": "Укрытие-Смена",
-			"publishedAt": "2026-10-22T19:20:14Z",
-			"total": 4
 		},
 		{
 			"tag": "Prestij",
