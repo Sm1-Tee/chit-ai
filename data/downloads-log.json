@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-31T13:15:57.922Z",
+			"release": "Две крепости",
+			"tag": "dve-kreposti",
+			"asset": "dve-kreposti-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 9
+		},
+		{
 			"at": "2026-10-30T21:21:43.515Z",
 			"release": "Настоящие сказки братьев Гримм.",
 			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
@@ -2584,8 +2593,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-31T06:36:54.917Z",
-	"total": 386,
+	"updatedAt": "2026-10-31T13:15:57.922Z",
+	"total": 387,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2634,7 +2643,7 @@
 			"tag": "dve-kreposti",
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
-			"total": 12
+			"total": 13
 		},
 		{
 			"tag": "Prezhde_chem_ih_povesyat",
