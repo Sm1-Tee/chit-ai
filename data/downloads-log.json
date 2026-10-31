@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-10-31T17:51:06.760Z",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"asset": "Esli_vse_koshki_v_mire_ischeznut-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-10-31T13:15:57.922Z",
 			"release": "Две крепости",
 			"tag": "dve-kreposti",
@@ -2593,8 +2602,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-10-31T13:15:57.922Z",
-	"total": 387,
+	"updatedAt": "2026-10-31T17:51:06.760Z",
+	"total": 388,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2742,6 +2751,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"publishedAt": "2026-05-10T14:44:06Z",
+			"total": 7
+		},
+		{
 			"tag": "Chernyy_chelovek",
 			"release": "Черный человек ",
 			"publishedAt": "2026-05-10T14:47:55Z",
@@ -2775,12 +2790,6 @@
 			"tag": "Krov_i_zhelezo",
 			"release": "Кровь и железо",
 			"publishedAt": "2026-05-10T13:33:54Z",
-			"total": 6
-		},
-		{
-			"tag": "Esli_vse_koshki_v_mire_ischeznut",
-			"release": "Esli_vse_koshki_v_mire_ischeznut",
-			"publishedAt": "2026-05-10T14:44:06Z",
 			"total": 6
 		},
 		{
