@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-01T11:37:57.620Z",
+			"release": "Ученик убийцы ",
+			"tag": "Uchenik_ubiytsy",
+			"asset": "Uchenik_ubiytsy-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-10-31T17:51:06.760Z",
 			"release": "Esli_vse_koshki_v_mire_ischeznut",
 			"tag": "Esli_vse_koshki_v_mire_ischeznut",
@@ -2602,8 +2611,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-01T04:41:26.586Z",
-	"total": 388,
+	"updatedAt": "2026-11-01T11:37:57.620Z",
+	"total": 389,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2703,6 +2712,12 @@
 			"total": 10
 		},
 		{
+			"tag": "Uchenik_ubiytsy",
+			"release": "Ученик убийцы ",
+			"publishedAt": "2026-05-10T14:57:15Z",
+			"total": 10
+		},
+		{
 			"tag": "Остров_проклятых",
 			"release": "Остров проклятых",
 			"publishedAt": "2026-07-27T18:05:59Z",
@@ -2712,12 +2727,6 @@
 			"tag": "Korolevskiy_ubiytsa",
 			"release": "Королевский убийца",
 			"publishedAt": "2026-06-03T22:54:17Z",
-			"total": 9
-		},
-		{
-			"tag": "Uchenik_ubiytsy",
-			"release": "Ученик убийцы ",
-			"publishedAt": "2026-05-10T14:57:15Z",
 			"total": 9
 		},
 		{
