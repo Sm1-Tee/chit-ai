@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-02T17:46:32.803Z",
+			"release": "Проект «Аве Мария»",
+			"tag": "Книга",
+			"asset": "Proekt-Ave-Mariya-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 13
+		},
+		{
 			"at": "2026-11-02T07:55:36.937Z",
 			"release": "Укрытие-Смена",
 			"tag": "Uktytie-2",
@@ -2638,8 +2647,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-02T07:55:36.937Z",
-	"total": 392,
+	"updatedAt": "2026-11-02T17:46:32.803Z",
+	"total": 393,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2667,16 +2676,16 @@
 			"total": 16
 		},
 		{
+			"tag": "Книга",
+			"release": "Проект «Аве Мария»",
+			"publishedAt": "2026-08-04T20:51:56Z",
+			"total": 15
+		},
+		{
 			"tag": "Strakhi_mudretsa_Tom_2",
 			"release": "Страхи мудреца. Том 2",
 			"publishedAt": "2026-05-20T15:34:19Z",
 			"total": 15
-		},
-		{
-			"tag": "Книга",
-			"release": "Проект «Аве Мария»",
-			"publishedAt": "2026-08-04T20:51:56Z",
-			"total": 14
 		},
 		{
 			"tag": "Миргород",
