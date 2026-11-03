@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-03T00:26:46.761Z",
+			"release": "Мастер и Маргарита",
+			"tag": "Master_i_Margarita",
+			"asset": "Master_i_Margarita-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 4
+		},
+		{
+			"at": "2026-11-03T00:26:46.761Z",
+			"release": "Мастер и Маргарита",
+			"tag": "Master_i_Margarita",
+			"asset": "Master_i_Margarita-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 10
+		},
+		{
 			"at": "2026-11-02T17:46:32.803Z",
 			"release": "Проект «Аве Мария»",
 			"tag": "Книга",
@@ -2647,8 +2665,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-02T17:46:32.803Z",
-	"total": 393,
+	"updatedAt": "2026-11-03T00:26:46.761Z",
+	"total": 395,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2694,6 +2712,12 @@
 			"total": 14
 		},
 		{
+			"tag": "Master_i_Margarita",
+			"release": "Мастер и Маргарита",
+			"publishedAt": "2026-05-10T14:49:21Z",
+			"total": 14
+		},
+		{
 			"tag": "dve-kreposti",
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
@@ -2703,12 +2727,6 @@
 			"tag": "Prezhde_chem_ih_povesyat",
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
-			"total": 12
-		},
-		{
-			"tag": "Master_i_Margarita",
-			"release": "Мастер и Маргарита",
-			"publishedAt": "2026-05-10T14:49:21Z",
 			"total": 12
 		},
 		{
