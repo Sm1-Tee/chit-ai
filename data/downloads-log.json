@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-11T19:46:24.788Z",
+			"release": "Трудно быть богом",
+			"tag": "Трудно_быть_богом",
+			"asset": "Trudno_byt._bogom-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 11
+		},
+		{
 			"at": "2026-11-10T03:07:59.338Z",
 			"release": "Пикник на обочине",
 			"tag": "Piknik_na_obochine",
@@ -2683,8 +2692,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-11T12:04:28.876Z",
-	"total": 397,
+	"updatedAt": "2026-11-11T19:46:24.788Z",
+	"total": 398,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2742,6 +2751,12 @@
 			"total": 13
 		},
 		{
+			"tag": "Трудно_быть_богом",
+			"release": "Трудно быть богом",
+			"publishedAt": "2026-07-14T14:20:43Z",
+			"total": 12
+		},
+		{
 			"tag": "Prezhde_chem_ih_povesyat",
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
@@ -2757,12 +2772,6 @@
 			"tag": "черный_отряд",
 			"release": "Черный отряд",
 			"publishedAt": "2026-07-23T13:21:12Z",
-			"total": 11
-		},
-		{
-			"tag": "Трудно_быть_богом",
-			"release": "Трудно быть богом",
-			"publishedAt": "2026-07-14T14:20:43Z",
 			"total": 11
 		},
 		{
