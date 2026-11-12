@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-12T17:40:55.505Z",
+			"release": "Цвет волшебства",
+			"tag": "Tsvet_volshebstva",
+			"asset": "Tsvet_volshebstva-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
 			"at": "2026-11-11T19:46:24.788Z",
 			"release": "Трудно быть богом",
 			"tag": "Трудно_быть_богом",
@@ -2692,8 +2701,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-12T09:12:16.998Z",
-	"total": 398,
+	"updatedAt": "2026-11-12T17:40:55.505Z",
+	"total": 399,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2937,6 +2946,12 @@
 			"total": 3
 		},
 		{
+			"tag": "Tsvet_volshebstva",
+			"release": "Цвет волшебства",
+			"publishedAt": "2026-05-10T14:51:24Z",
+			"total": 2
+		},
+		{
 			"tag": "Portret_Doriana_Greya",
 			"release": "Портрет Дориана Грея",
 			"publishedAt": "2026-05-10T14:39:46Z",
@@ -2947,12 +2962,6 @@
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
 			"total": 2
-		},
-		{
-			"tag": "Tsvet_volshebstva",
-			"release": "Цвет волшебства",
-			"publishedAt": "2026-05-10T14:51:24Z",
-			"total": 1
 		},
 		{
 			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
