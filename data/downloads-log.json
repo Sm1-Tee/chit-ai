@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-12T23:09:23.617Z",
+			"release": "METRO_2033",
+			"tag": "METRO_2033",
+			"asset": "METRO_2033-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-11-12T17:40:55.505Z",
 			"release": "Цвет волшебства",
 			"tag": "Tsvet_volshebstva",
@@ -2701,8 +2710,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-12T17:40:55.505Z",
-	"total": 399,
+	"updatedAt": "2026-11-12T23:09:23.617Z",
+	"total": 400,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2856,6 +2865,12 @@
 			"total": 7
 		},
 		{
+			"tag": "METRO_2033",
+			"release": "METRO_2033",
+			"publishedAt": "2026-05-10T14:38:34Z",
+			"total": 7
+		},
+		{
 			"tag": "Esli_vse_koshki_v_mire_ischeznut",
 			"release": "Esli_vse_koshki_v_mire_ischeznut",
 			"publishedAt": "2026-05-10T14:44:06Z",
@@ -2883,12 +2898,6 @@
 			"tag": "1984",
 			"release": "1984",
 			"publishedAt": "2026-05-10T14:50:17Z",
-			"total": 6
-		},
-		{
-			"tag": "METRO_2033",
-			"release": "METRO_2033",
-			"publishedAt": "2026-05-10T14:38:34Z",
 			"total": 6
 		},
 		{
