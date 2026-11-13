@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-13T18:40:11.379Z",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"asset": "Esli_vse_koshki_v_mire_ischeznut-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-11-12T23:09:23.617Z",
 			"release": "METRO_2033",
 			"tag": "METRO_2033",
@@ -2710,8 +2719,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-13T11:27:33.667Z",
-	"total": 400,
+	"updatedAt": "2026-11-13T18:40:11.379Z",
+	"total": 401,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2853,6 +2862,12 @@
 			"total": 8
 		},
 		{
+			"tag": "Esli_vse_koshki_v_mire_ischeznut",
+			"release": "Esli_vse_koshki_v_mire_ischeznut",
+			"publishedAt": "2026-05-10T14:44:06Z",
+			"total": 8
+		},
+		{
 			"tag": "Uktytie-2",
 			"release": "Укрытие-Смена",
 			"publishedAt": "2026-10-22T19:20:14Z",
@@ -2868,12 +2883,6 @@
 			"tag": "METRO_2033",
 			"release": "METRO_2033",
 			"publishedAt": "2026-05-10T14:38:34Z",
-			"total": 7
-		},
-		{
-			"tag": "Esli_vse_koshki_v_mire_ischeznut",
-			"release": "Esli_vse_koshki_v_mire_ischeznut",
-			"publishedAt": "2026-05-10T14:44:06Z",
 			"total": 7
 		},
 		{
