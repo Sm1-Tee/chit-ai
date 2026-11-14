@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-14T13:55:21.904Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 10
+		},
+		{
 			"at": "2026-11-13T18:40:11.379Z",
 			"release": "Esli_vse_koshki_v_mire_ischeznut",
 			"tag": "Esli_vse_koshki_v_mire_ischeznut",
@@ -2719,8 +2728,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-14T06:51:06.552Z",
-	"total": 401,
+	"updatedAt": "2026-11-14T13:55:21.904Z",
+	"total": 402,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2778,6 +2787,12 @@
 			"total": 13
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 12
+		},
+		{
 			"tag": "Трудно_быть_богом",
 			"release": "Трудно быть богом",
 			"publishedAt": "2026-07-14T14:20:43Z",
@@ -2788,12 +2803,6 @@
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
 			"total": 12
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 11
 		},
 		{
 			"tag": "черный_отряд",
