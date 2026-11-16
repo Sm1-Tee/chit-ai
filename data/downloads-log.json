@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-16T08:16:06.260Z",
+			"release": "Укрытие-Смена",
+			"tag": "Uktytie-2",
+			"asset": "ukrytie-2-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 7
+		},
+		{
 			"at": "2026-11-14T18:56:10.429Z",
 			"release": "Черный отряд",
 			"tag": "черный_отряд",
@@ -2737,8 +2746,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-16T01:17:46.829Z",
-	"total": 403,
+	"updatedAt": "2026-11-16T08:16:06.260Z",
+	"total": 404,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2868,6 +2877,12 @@
 			"total": 9
 		},
 		{
+			"tag": "Uktytie-2",
+			"release": "Укрытие-Смена",
+			"publishedAt": "2026-10-22T19:20:14Z",
+			"total": 8
+		},
+		{
 			"tag": "Posledniy_dovod_koroley",
 			"release": "Последний довод королей",
 			"publishedAt": "2026-05-10T13:36:38Z",
@@ -2884,12 +2899,6 @@
 			"release": "Esli_vse_koshki_v_mire_ischeznut",
 			"publishedAt": "2026-05-10T14:44:06Z",
 			"total": 8
-		},
-		{
-			"tag": "Uktytie-2",
-			"release": "Укрытие-Смена",
-			"publishedAt": "2026-10-22T19:20:14Z",
-			"total": 7
 		},
 		{
 			"tag": "Пламя-и-кровь-Кровь-драконов",
