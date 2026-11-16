@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-16T18:45:27.745Z",
+			"release": "Тени сгущаются",
+			"tag": "Тени_сгущаются",
+			"asset": "Teni-sgushchayutsya-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
+			"at": "2026-11-16T18:45:27.745Z",
+			"release": "Черный отряд",
+			"tag": "черный_отряд",
+			"asset": "Chernyi_otriad_COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 11
+		},
+		{
 			"at": "2026-11-16T08:16:06.260Z",
 			"release": "Укрытие-Смена",
 			"tag": "Uktytie-2",
@@ -2746,8 +2764,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-16T08:16:06.260Z",
-	"total": 404,
+	"updatedAt": "2026-11-16T18:45:27.745Z",
+	"total": 406,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2799,6 +2817,12 @@
 			"total": 14
 		},
 		{
+			"tag": "черный_отряд",
+			"release": "Черный отряд",
+			"publishedAt": "2026-07-23T13:21:12Z",
+			"total": 13
+		},
+		{
 			"tag": "dve-kreposti",
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
@@ -2808,12 +2832,6 @@
 			"tag": "warcraft",
 			"release": "Рождение Орды",
 			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 12
-		},
-		{
-			"tag": "черный_отряд",
-			"release": "Черный отряд",
-			"publishedAt": "2026-07-23T13:21:12Z",
 			"total": 12
 		},
 		{
@@ -2955,6 +2973,12 @@
 			"total": 5
 		},
 		{
+			"tag": "Тени_сгущаются",
+			"release": "Тени сгущаются",
+			"publishedAt": "2026-09-06T14:54:11Z",
+			"total": 5
+		},
+		{
 			"tag": "Dyuna",
 			"release": "Дюна",
 			"publishedAt": "2026-05-10T14:47:01Z",
@@ -2964,12 +2988,6 @@
 			"tag": "Prestij",
 			"release": "Престиж",
 			"publishedAt": "2026-09-11T22:26:58Z",
-			"total": 4
-		},
-		{
-			"tag": "Тени_сгущаются",
-			"release": "Тени сгущаются",
-			"publishedAt": "2026-09-06T14:54:11Z",
 			"total": 4
 		},
 		{
