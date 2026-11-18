@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-18T10:28:33.750Z",
+			"release": "Трудно быть богом",
+			"tag": "Трудно_быть_богом",
+			"asset": "Trudno_byt._bogom-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 12
+		},
+		{
 			"at": "2026-11-16T18:45:27.745Z",
 			"release": "Тени сгущаются",
 			"tag": "Тени_сгущаются",
@@ -2764,8 +2773,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-18T02:02:54.678Z",
-	"total": 406,
+	"updatedAt": "2026-11-18T10:28:33.750Z",
+	"total": 407,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2823,6 +2832,12 @@
 			"total": 13
 		},
 		{
+			"tag": "Трудно_быть_богом",
+			"release": "Трудно быть богом",
+			"publishedAt": "2026-07-14T14:20:43Z",
+			"total": 13
+		},
+		{
 			"tag": "dve-kreposti",
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
@@ -2832,12 +2847,6 @@
 			"tag": "warcraft",
 			"release": "Рождение Орды",
 			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 12
-		},
-		{
-			"tag": "Трудно_быть_богом",
-			"release": "Трудно быть богом",
-			"publishedAt": "2026-07-14T14:20:43Z",
 			"total": 12
 		},
 		{
