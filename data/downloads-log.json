@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-19T01:01:40.802Z",
+			"release": "imya-vetra",
+			"tag": "imya-vetra",
+			"asset": "imya-vetra-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-11-18T10:28:33.750Z",
 			"release": "Трудно быть богом",
 			"tag": "Трудно_быть_богом",
@@ -2773,8 +2782,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-18T18:59:03.381Z",
-	"total": 407,
+	"updatedAt": "2026-11-19T01:01:40.802Z",
+	"total": 408,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2793,7 +2802,7 @@
 			"tag": "imya-vetra",
 			"release": "imya-vetra",
 			"publishedAt": "2026-05-10T12:58:58Z",
-			"total": 17
+			"total": 18
 		},
 		{
 			"tag": "1984_2",
