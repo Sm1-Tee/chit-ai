@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-19T18:27:50.696Z",
+			"release": "Черный человек ",
+			"tag": "Chernyy_chelovek",
+			"asset": "Chernyy_chelovek-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 7
+		},
+		{
 			"at": "2026-11-19T01:01:40.802Z",
 			"release": "imya-vetra",
 			"tag": "imya-vetra",
@@ -2782,8 +2791,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-19T09:05:17.561Z",
-	"total": 408,
+	"updatedAt": "2026-11-19T18:27:50.696Z",
+	"total": 409,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2937,6 +2946,12 @@
 			"total": 8
 		},
 		{
+			"tag": "Chernyy_chelovek",
+			"release": "Черный человек ",
+			"publishedAt": "2026-05-10T14:47:55Z",
+			"total": 8
+		},
+		{
 			"tag": "Пламя-и-кровь-Кровь-драконов",
 			"release": "Пламя и кровь. Кровь драконов",
 			"publishedAt": "2026-08-17T22:02:34Z",
@@ -2946,12 +2961,6 @@
 			"tag": "METRO_2033",
 			"release": "METRO_2033",
 			"publishedAt": "2026-05-10T14:38:34Z",
-			"total": 7
-		},
-		{
-			"tag": "Chernyy_chelovek",
-			"release": "Черный человек ",
-			"publishedAt": "2026-05-10T14:47:55Z",
 			"total": 7
 		},
 		{
