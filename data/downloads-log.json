@@ -1,6 +1,33 @@
 {
 	"events": [
 		{
+			"at": "2026-11-22T00:03:34.466Z",
+			"release": "Странная история доктора Джекила и мистера Хайда ",
+			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
+			"asset": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda-color.epub",
+			"variant": "color",
+			"delta": 2,
+			"total": 3
+		},
+		{
+			"at": "2026-11-22T00:03:34.466Z",
+			"release": "Пикник на обочине",
+			"tag": "Piknik_na_obochine",
+			"asset": "Piknik_na_obochine-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 9
+		},
+		{
+			"at": "2026-11-22T00:03:34.466Z",
+			"release": "Мор, ученик Смерти",
+			"tag": "Mor_uchenik_Smerti",
+			"asset": "Mor_uchenik_Smerti-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 4
+		},
+		{
 			"at": "2026-11-21T12:53:02.689Z",
 			"release": "Пикник на обочине",
 			"tag": "Piknik_na_obochine",
@@ -2800,8 +2827,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-21T19:54:35.019Z",
-	"total": 410,
+	"updatedAt": "2026-11-22T00:03:34.466Z",
+	"total": 414,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2907,6 +2934,12 @@
 			"total": 10
 		},
 		{
+			"tag": "Piknik_na_obochine",
+			"release": "Пикник на обочине",
+			"publishedAt": "2026-05-10T14:46:02Z",
+			"total": 10
+		},
+		{
 			"tag": "Khobbit_ili_Tuda_i_obratno",
 			"release": "Хоббит, или Туда и обратно",
 			"publishedAt": "2026-05-10T13:31:42Z",
@@ -2928,12 +2961,6 @@
 			"tag": "Strakhi_mudretsa_Tom_1",
 			"release": "Страхи мудреца. Том 1",
 			"publishedAt": "2026-05-10T13:40:37Z",
-			"total": 9
-		},
-		{
-			"tag": "Piknik_na_obochine",
-			"release": "Пикник на обочине",
-			"publishedAt": "2026-05-10T14:46:02Z",
 			"total": 9
 		},
 		{
@@ -3015,6 +3042,12 @@
 			"total": 5
 		},
 		{
+			"tag": "Mor_uchenik_Smerti",
+			"release": "Мор, ученик Смерти",
+			"publishedAt": "2026-05-10T14:45:04Z",
+			"total": 5
+		},
+		{
 			"tag": "Dyuna",
 			"release": "Дюна",
 			"publishedAt": "2026-05-10T14:47:01Z",
@@ -3033,15 +3066,15 @@
 			"total": 4
 		},
 		{
-			"tag": "Mor_uchenik_Smerti",
-			"release": "Мор, ученик Смерти",
-			"publishedAt": "2026-05-10T14:45:04Z",
-			"total": 4
-		},
-		{
 			"tag": "Последний_страж",
 			"release": "Последний страж",
 			"publishedAt": "2026-09-26T15:47:23Z",
+			"total": 3
+		},
+		{
+			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
+			"release": "Странная история доктора Джекила и мистера Хайда ",
+			"publishedAt": "2026-05-10T14:52:34Z",
 			"total": 3
 		},
 		{
@@ -3061,12 +3094,6 @@
 			"release": "Франкенштейн, или Современный Прометей",
 			"publishedAt": "2026-05-10T14:55:16Z",
 			"total": 2
-		},
-		{
-			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
-			"release": "Странная история доктора Джекила и мистера Хайда ",
-			"publishedAt": "2026-05-10T14:52:34Z",
-			"total": 1
 		}
 	]
 }
