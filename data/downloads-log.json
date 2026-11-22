@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-22T15:31:00.464Z",
+			"release": "Королевский убийца",
+			"tag": "Korolevskiy_ubiytsa",
+			"asset": "Korolevskiy_ubiytsa-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 7
+		},
+		{
 			"at": "2026-11-22T00:03:34.466Z",
 			"release": "Странная история доктора Джекила и мистера Хайда ",
 			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
@@ -2827,8 +2836,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-22T07:13:17.106Z",
-	"total": 414,
+	"updatedAt": "2026-11-22T15:31:00.464Z",
+	"total": 415,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2928,6 +2937,12 @@
 			"total": 10
 		},
 		{
+			"tag": "Korolevskiy_ubiytsa",
+			"release": "Королевский убийца",
+			"publishedAt": "2026-06-03T22:54:17Z",
+			"total": 10
+		},
+		{
 			"tag": "Uchenik_ubiytsy",
 			"release": "Ученик убийцы ",
 			"publishedAt": "2026-05-10T14:57:15Z",
@@ -2949,12 +2964,6 @@
 			"tag": "Остров_проклятых",
 			"release": "Остров проклятых",
 			"publishedAt": "2026-07-27T18:05:59Z",
-			"total": 9
-		},
-		{
-			"tag": "Korolevskiy_ubiytsa",
-			"release": "Королевский убийца",
-			"publishedAt": "2026-06-03T22:54:17Z",
 			"total": 9
 		},
 		{
