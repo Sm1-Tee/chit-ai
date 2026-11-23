@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-23T01:55:10.879Z",
+			"release": "Ученик убийцы ",
+			"tag": "Uchenik_ubiytsy",
+			"asset": "Uchenik_ubiytsy-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 6
+		},
+		{
+			"at": "2026-11-23T01:55:10.879Z",
+			"release": "Дюна",
+			"tag": "Dyuna",
+			"asset": "Dyuna-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-11-22T15:31:00.464Z",
 			"release": "Королевский убийца",
 			"tag": "Korolevskiy_ubiytsa",
@@ -2836,8 +2854,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-22T21:29:18.043Z",
-	"total": 415,
+	"updatedAt": "2026-11-23T01:55:10.879Z",
+	"total": 417,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2925,6 +2943,12 @@
 			"total": 11
 		},
 		{
+			"tag": "Uchenik_ubiytsy",
+			"release": "Ученик убийцы ",
+			"publishedAt": "2026-05-10T14:57:15Z",
+			"total": 11
+		},
+		{
 			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
 			"release": "Настоящие сказки братьев Гримм.",
 			"publishedAt": "2026-05-10T14:54:17Z",
@@ -2940,12 +2964,6 @@
 			"tag": "Korolevskiy_ubiytsa",
 			"release": "Королевский убийца",
 			"publishedAt": "2026-06-03T22:54:17Z",
-			"total": 10
-		},
-		{
-			"tag": "Uchenik_ubiytsy",
-			"release": "Ученик убийцы ",
-			"publishedAt": "2026-05-10T14:57:15Z",
 			"total": 10
 		},
 		{
@@ -3033,6 +3051,12 @@
 			"total": 6
 		},
 		{
+			"tag": "Dyuna",
+			"release": "Дюна",
+			"publishedAt": "2026-05-10T14:47:01Z",
+			"total": 6
+		},
+		{
 			"tag": "Artas_Voskhozhdenie_Korolya-licha",
 			"release": "Артас. Восхождение Короля-лича",
 			"publishedAt": "2026-05-10T13:37:59Z",
@@ -3054,12 +3078,6 @@
 			"tag": "Mor_uchenik_Smerti",
 			"release": "Мор, ученик Смерти",
 			"publishedAt": "2026-05-10T14:45:04Z",
-			"total": 5
-		},
-		{
-			"tag": "Dyuna",
-			"release": "Дюна",
-			"publishedAt": "2026-05-10T14:47:01Z",
 			"total": 5
 		},
 		{
