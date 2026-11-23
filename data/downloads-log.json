@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-23T22:08:47.465Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-COLOr.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 11
+		},
+		{
+			"at": "2026-11-23T22:08:47.465Z",
+			"release": "1984",
+			"tag": "1984_2",
+			"asset": "1984-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-11-23T10:13:43.679Z",
 			"release": "Дюна",
 			"tag": "Dyuna",
@@ -2863,8 +2881,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-23T10:13:43.679Z",
-	"total": 418,
+	"updatedAt": "2026-11-23T22:08:47.465Z",
+	"total": 420,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2889,7 +2907,7 @@
 			"tag": "1984_2",
 			"release": "1984",
 			"publishedAt": "2026-08-08T18:06:59Z",
-			"total": 16
+			"total": 17
 		},
 		{
 			"tag": "Книга",
@@ -2916,6 +2934,12 @@
 			"total": 14
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 13
+		},
+		{
 			"tag": "черный_отряд",
 			"release": "Черный отряд",
 			"publishedAt": "2026-07-23T13:21:12Z",
@@ -2932,12 +2956,6 @@
 			"release": "Две крепости",
 			"publishedAt": "2026-06-18T00:17:50Z",
 			"total": 13
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 12
 		},
 		{
 			"tag": "Prezhde_chem_ih_povesyat",
