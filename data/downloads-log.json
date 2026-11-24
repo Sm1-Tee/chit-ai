@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-24T18:03:46.717Z",
+			"release": "Побег из Шоушенка",
+			"tag": "Побег_из_Шоушенка",
+			"asset": "Pobeg_iz_Shoushenka_BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 5
+		},
+		{
+			"at": "2026-11-24T18:03:46.717Z",
+			"release": "Amerikanskie_bogi",
+			"tag": "Amerikanskie_bogi",
+			"asset": "Amerikanskie_bogi-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 5
+		},
+		{
 			"at": "2026-11-24T06:14:28.168Z",
 			"release": "Вечера на хуторе близ Диканьки",
 			"tag": "Вечера_на_хуторе_близ_Диканьки",
@@ -2890,8 +2908,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-24T06:14:28.168Z",
-	"total": 421,
+	"updatedAt": "2026-11-24T18:03:46.717Z",
+	"total": 423,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2979,6 +2997,12 @@
 			"total": 12
 		},
 		{
+			"tag": "Побег_из_Шоушенка",
+			"release": "Побег из Шоушенка",
+			"publishedAt": "2026-07-25T16:49:08Z",
+			"total": 11
+		},
+		{
 			"tag": "Uchenik_ubiytsy",
 			"release": "Ученик убийцы ",
 			"publishedAt": "2026-05-10T14:57:15Z",
@@ -2989,12 +3013,6 @@
 			"release": "Настоящие сказки братьев Гримм.",
 			"publishedAt": "2026-05-10T14:54:17Z",
 			"total": 11
-		},
-		{
-			"tag": "Побег_из_Шоушенка",
-			"release": "Побег из Шоушенка",
-			"publishedAt": "2026-07-25T16:49:08Z",
-			"total": 10
 		},
 		{
 			"tag": "Korolevskiy_ubiytsa",
@@ -3051,6 +3069,12 @@
 			"total": 8
 		},
 		{
+			"tag": "Amerikanskie_bogi",
+			"release": "Amerikanskie_bogi",
+			"publishedAt": "2026-05-10T14:42:59Z",
+			"total": 8
+		},
+		{
 			"tag": "Пламя-и-кровь-Кровь-драконов",
 			"release": "Пламя и кровь. Кровь драконов",
 			"publishedAt": "2026-08-17T22:02:34Z",
@@ -3066,12 +3090,6 @@
 			"tag": "Dyuna",
 			"release": "Дюна",
 			"publishedAt": "2026-05-10T14:47:01Z",
-			"total": 7
-		},
-		{
-			"tag": "Amerikanskie_bogi",
-			"release": "Amerikanskie_bogi",
-			"publishedAt": "2026-05-10T14:42:59Z",
 			"total": 7
 		},
 		{
