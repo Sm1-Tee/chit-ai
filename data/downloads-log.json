@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-24T06:14:28.168Z",
+			"release": "Вечера на хуторе близ Диканьки",
+			"tag": "Вечера_на_хуторе_близ_Диканьки",
+			"asset": "Vechera.na.khutore.bliz.Dikanki-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 10
+		},
+		{
 			"at": "2026-11-23T22:08:47.465Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -2881,8 +2890,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-23T22:08:47.465Z",
-	"total": 420,
+	"updatedAt": "2026-11-24T06:14:28.168Z",
+	"total": 421,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2958,16 +2967,16 @@
 			"total": 13
 		},
 		{
+			"tag": "Вечера_на_хуторе_близ_Диканьки",
+			"release": "Вечера на хуторе близ Диканьки",
+			"publishedAt": "2026-07-05T18:38:06Z",
+			"total": 12
+		},
+		{
 			"tag": "Prezhde_chem_ih_povesyat",
 			"release": "Прежде чем их повесят",
 			"publishedAt": "2026-05-10T13:35:14Z",
 			"total": 12
-		},
-		{
-			"tag": "Вечера_на_хуторе_близ_Диканьки",
-			"release": "Вечера на хуторе близ Диканьки",
-			"publishedAt": "2026-07-05T18:38:06Z",
-			"total": 11
 		},
 		{
 			"tag": "Uchenik_ubiytsy",
