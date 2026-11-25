@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-25T21:53:22.495Z",
+			"release": "Трудно быть богом",
+			"tag": "Трудно_быть_богом",
+			"asset": "Trudno_byt._bogom-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 13
+		},
+		{
 			"at": "2026-11-25T12:02:10.731Z",
 			"release": "Странная история доктора Джекила и мистера Хайда ",
 			"tag": "Strannaya_istoriya_doktora_Dzhekila_i_mistera_Khayda",
@@ -2944,8 +2953,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-25T12:02:10.731Z",
-	"total": 427,
+	"updatedAt": "2026-11-25T21:53:22.495Z",
+	"total": 428,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2991,6 +3000,12 @@
 			"total": 15
 		},
 		{
+			"tag": "Трудно_быть_богом",
+			"release": "Трудно быть богом",
+			"publishedAt": "2026-07-14T14:20:43Z",
+			"total": 14
+		},
+		{
 			"tag": "Master_i_Margarita",
 			"release": "Мастер и Маргарита",
 			"publishedAt": "2026-05-10T14:49:21Z",
@@ -3006,12 +3021,6 @@
 			"tag": "черный_отряд",
 			"release": "Черный отряд",
 			"publishedAt": "2026-07-23T13:21:12Z",
-			"total": 13
-		},
-		{
-			"tag": "Трудно_быть_богом",
-			"release": "Трудно быть богом",
-			"publishedAt": "2026-07-14T14:20:43Z",
 			"total": 13
 		},
 		{
