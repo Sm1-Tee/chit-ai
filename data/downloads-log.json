@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-25T02:41:25.827Z",
+			"release": "Миргород",
+			"tag": "Миргород",
+			"asset": "MIRGOROD-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
 			"at": "2026-11-24T18:03:46.717Z",
 			"release": "Побег из Шоушенка",
 			"tag": "Побег_из_Шоушенка",
@@ -2908,8 +2917,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-24T18:03:46.717Z",
-	"total": 423,
+	"updatedAt": "2026-11-25T02:41:25.827Z",
+	"total": 424,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2943,16 +2952,16 @@
 			"total": 15
 		},
 		{
+			"tag": "Миргород",
+			"release": "Миргород",
+			"publishedAt": "2026-07-07T12:28:03Z",
+			"total": 15
+		},
+		{
 			"tag": "Strakhi_mudretsa_Tom_2",
 			"release": "Страхи мудреца. Том 2",
 			"publishedAt": "2026-05-20T15:34:19Z",
 			"total": 15
-		},
-		{
-			"tag": "Миргород",
-			"release": "Миргород",
-			"publishedAt": "2026-07-07T12:28:03Z",
-			"total": 14
 		},
 		{
 			"tag": "Master_i_Margarita",
