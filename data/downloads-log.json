@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-26T03:55:06.328Z",
+			"release": "Рождение Орды",
+			"tag": "warcraft",
+			"asset": "Rozhdenie-ordy-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 3
+		},
+		{
+			"at": "2026-11-26T03:55:06.328Z",
+			"release": "Настоящие сказки братьев Гримм.",
+			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
+			"asset": "Nastoyashchie_skazki_bratyev_Grimm-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 8
+		},
+		{
 			"at": "2026-11-25T21:53:22.495Z",
 			"release": "Трудно быть богом",
 			"tag": "Трудно_быть_богом",
@@ -2953,8 +2971,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-25T21:53:22.495Z",
-	"total": 428,
+	"updatedAt": "2026-11-26T03:55:06.328Z",
+	"total": 430,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -3000,6 +3018,12 @@
 			"total": 15
 		},
 		{
+			"tag": "warcraft",
+			"release": "Рождение Орды",
+			"publishedAt": "2026-09-15T14:37:51Z",
+			"total": 14
+		},
+		{
 			"tag": "Трудно_быть_богом",
 			"release": "Трудно быть богом",
 			"publishedAt": "2026-07-14T14:20:43Z",
@@ -3010,12 +3034,6 @@
 			"release": "Мастер и Маргарита",
 			"publishedAt": "2026-05-10T14:49:21Z",
 			"total": 14
-		},
-		{
-			"tag": "warcraft",
-			"release": "Рождение Орды",
-			"publishedAt": "2026-09-15T14:37:51Z",
-			"total": 13
 		},
 		{
 			"tag": "черный_отряд",
@@ -3042,6 +3060,12 @@
 			"total": 12
 		},
 		{
+			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
+			"release": "Настоящие сказки братьев Гримм.",
+			"publishedAt": "2026-05-10T14:54:17Z",
+			"total": 12
+		},
+		{
 			"tag": "Побег_из_Шоушенка",
 			"release": "Побег из Шоушенка",
 			"publishedAt": "2026-07-25T16:49:08Z",
@@ -3051,12 +3075,6 @@
 			"tag": "Uchenik_ubiytsy",
 			"release": "Ученик убийцы ",
 			"publishedAt": "2026-05-10T14:57:15Z",
-			"total": 11
-		},
-		{
-			"tag": "Nastoyashchie_skazki_bratyev_Grimm",
-			"release": "Настоящие сказки братьев Гримм.",
-			"publishedAt": "2026-05-10T14:54:17Z",
 			"total": 11
 		},
 		{
