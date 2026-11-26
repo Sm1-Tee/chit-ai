@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-26T13:30:01.832Z",
+			"release": "1984",
+			"tag": "1984_2",
+			"asset": "1984-COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 15
+		},
+		{
 			"at": "2026-11-26T03:55:06.328Z",
 			"release": "Рождение Орды",
 			"tag": "warcraft",
@@ -2971,8 +2980,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-26T03:55:06.328Z",
-	"total": 430,
+	"updatedAt": "2026-11-26T13:30:01.832Z",
+	"total": 431,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -2988,16 +2997,16 @@
 			"total": 19
 		},
 		{
+			"tag": "1984_2",
+			"release": "1984",
+			"publishedAt": "2026-08-08T18:06:59Z",
+			"total": 18
+		},
+		{
 			"tag": "imya-vetra",
 			"release": "imya-vetra",
 			"publishedAt": "2026-05-10T12:58:58Z",
 			"total": 18
-		},
-		{
-			"tag": "1984_2",
-			"release": "1984",
-			"publishedAt": "2026-08-08T18:06:59Z",
-			"total": 17
 		},
 		{
 			"tag": "Книга",
