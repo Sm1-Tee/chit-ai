@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-27T23:10:57.957Z",
+			"release": "Кровь и железо",
+			"tag": "Krov_i_zhelezo",
+			"asset": "Krov_i_zhelezo-bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
 			"at": "2026-11-27T14:38:55.952Z",
 			"release": "Братство кольца",
 			"tag": "bratstvo_kolca",
@@ -3016,8 +3025,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-27T14:38:55.952Z",
-	"total": 435,
+	"updatedAt": "2026-11-27T23:10:57.957Z",
+	"total": 436,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -3195,6 +3204,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Krov_i_zhelezo",
+			"release": "Кровь и железо",
+			"publishedAt": "2026-05-10T13:33:54Z",
+			"total": 7
+		},
+		{
 			"tag": "Dyuna",
 			"release": "Дюна",
 			"publishedAt": "2026-05-10T14:47:01Z",
@@ -3216,12 +3231,6 @@
 			"tag": "1984",
 			"release": "1984",
 			"publishedAt": "2026-05-10T14:50:17Z",
-			"total": 6
-		},
-		{
-			"tag": "Krov_i_zhelezo",
-			"release": "Кровь и железо",
-			"publishedAt": "2026-05-10T13:33:54Z",
 			"total": 6
 		},
 		{
