@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-27T14:38:55.952Z",
+			"release": "Братство кольца",
+			"tag": "bratstvo_kolca",
+			"asset": "bratstvo_kolca_bw.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 6
+		},
+		{
+			"at": "2026-11-27T14:38:55.952Z",
+			"release": "Артас. Восхождение Короля-лича",
+			"tag": "Artas_Voskhozhdenie_Korolya-licha",
+			"asset": "Artas_Voskhozhdenie_Korolya-licha-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 6
+		},
+		{
 			"at": "2026-11-27T04:44:30.347Z",
 			"release": "Пламя и кровь. Кровь драконов",
 			"tag": "Пламя-и-кровь-Кровь-драконов",
@@ -2998,8 +3016,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-27T04:44:30.347Z",
-	"total": 433,
+	"updatedAt": "2026-11-27T14:38:55.952Z",
+	"total": 435,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -3012,7 +3030,7 @@
 			"tag": "bratstvo_kolca",
 			"release": "Братство кольца",
 			"publishedAt": "2026-06-06T19:17:42Z",
-			"total": 19
+			"total": 20
 		},
 		{
 			"tag": "1984_2",
@@ -3183,6 +3201,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Artas_Voskhozhdenie_Korolya-licha",
+			"release": "Артас. Восхождение Короля-лича",
+			"publishedAt": "2026-05-10T13:37:59Z",
+			"total": 7
+		},
+		{
 			"tag": "Дракула",
 			"release": "ДРАКУЛА",
 			"publishedAt": "2026-07-02T16:22:13Z",
@@ -3198,12 +3222,6 @@
 			"tag": "Krov_i_zhelezo",
 			"release": "Кровь и железо",
 			"publishedAt": "2026-05-10T13:33:54Z",
-			"total": 6
-		},
-		{
-			"tag": "Artas_Voskhozhdenie_Korolya-licha",
-			"release": "Артас. Восхождение Короля-лича",
-			"publishedAt": "2026-05-10T13:37:59Z",
 			"total": 6
 		},
 		{
