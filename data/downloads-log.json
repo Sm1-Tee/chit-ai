@@ -1,6 +1,24 @@
 {
 	"events": [
 		{
+			"at": "2026-11-28T13:50:44.796Z",
+			"release": "Тени сгущаются",
+			"tag": "Тени_сгущаются",
+			"asset": "Teni-sgushchayutsya-BW.epub",
+			"variant": "bw",
+			"delta": 1,
+			"total": 1
+		},
+		{
+			"at": "2026-11-28T13:50:44.796Z",
+			"release": "Черный отряд",
+			"tag": "черный_отряд",
+			"asset": "Chernyi_otriad_COLOR.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 12
+		},
+		{
 			"at": "2026-11-28T04:50:10.547Z",
 			"release": "Портрет Дориана Грея",
 			"tag": "Portret_Doriana_Greya",
@@ -3034,8 +3052,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-28T04:50:10.547Z",
-	"total": 437,
+	"updatedAt": "2026-11-28T13:50:44.796Z",
+	"total": 439,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -3087,6 +3105,12 @@
 			"total": 14
 		},
 		{
+			"tag": "черный_отряд",
+			"release": "Черный отряд",
+			"publishedAt": "2026-07-23T13:21:12Z",
+			"total": 14
+		},
+		{
 			"tag": "Трудно_быть_богом",
 			"release": "Трудно быть богом",
 			"publishedAt": "2026-07-14T14:20:43Z",
@@ -3097,12 +3121,6 @@
 			"release": "Мастер и Маргарита",
 			"publishedAt": "2026-05-10T14:49:21Z",
 			"total": 14
-		},
-		{
-			"tag": "черный_отряд",
-			"release": "Черный отряд",
-			"publishedAt": "2026-07-23T13:21:12Z",
-			"total": 13
 		},
 		{
 			"tag": "dve-kreposti",
@@ -3231,6 +3249,12 @@
 			"total": 7
 		},
 		{
+			"tag": "Тени_сгущаются",
+			"release": "Тени сгущаются",
+			"publishedAt": "2026-09-06T14:54:11Z",
+			"total": 6
+		},
+		{
 			"tag": "Дракула",
 			"release": "ДРАКУЛА",
 			"publishedAt": "2026-07-02T16:22:13Z",
@@ -3246,12 +3270,6 @@
 			"tag": "Molchanie_yagnyat",
 			"release": "Молчание ягнят",
 			"publishedAt": "2026-10-01T20:17:08Z",
-			"total": 5
-		},
-		{
-			"tag": "Тени_сгущаются",
-			"release": "Тени сгущаются",
-			"publishedAt": "2026-09-06T14:54:11Z",
 			"total": 5
 		},
 		{
