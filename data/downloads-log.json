@@ -1,6 +1,15 @@
 {
 	"events": [
 		{
+			"at": "2026-11-28T04:50:10.547Z",
+			"release": "Портрет Дориана Грея",
+			"tag": "Portret_Doriana_Greya",
+			"asset": "Portret_Doriana_Greya-color.epub",
+			"variant": "color",
+			"delta": 1,
+			"total": 1
+		},
+		{
 			"at": "2026-11-27T23:10:57.957Z",
 			"release": "Кровь и железо",
 			"tag": "Krov_i_zhelezo",
@@ -3025,8 +3034,8 @@
 			"total": 2
 		}
 	],
-	"updatedAt": "2026-11-27T23:10:57.957Z",
-	"total": 436,
+	"updatedAt": "2026-11-28T04:50:10.547Z",
+	"total": 437,
 	"startedAt": "2026-07-29T17:47:00.295Z",
 	"totalsByRelease": [
 		{
@@ -3276,15 +3285,15 @@
 			"total": 3
 		},
 		{
-			"tag": "Tsvet_volshebstva",
-			"release": "Цвет волшебства",
-			"publishedAt": "2026-05-10T14:51:24Z",
-			"total": 2
-		},
-		{
 			"tag": "Portret_Doriana_Greya",
 			"release": "Портрет Дориана Грея",
 			"publishedAt": "2026-05-10T14:39:46Z",
+			"total": 3
+		},
+		{
+			"tag": "Tsvet_volshebstva",
+			"release": "Цвет волшебства",
+			"publishedAt": "2026-05-10T14:51:24Z",
 			"total": 2
 		},
 		{
